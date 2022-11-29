@@ -1,3746 +1,3210 @@
 [
   {
     "path": "/ar",
-    "component": "~/pages/hospital/index.vue",
-    "_name": "_0f1ecc32"
+    "component": "~/pages/hospital/index.vue"
   },
   {
     "path": "/es",
-    "component": "~/pages/hospital/index.vue",
-    "_name": "_0f1ecc32"
+    "component": "~/pages/hospital/index.vue"
   },
   {
     "path": "/fr",
-    "component": "~/pages/hospital/index.vue",
-    "_name": "_0f1ecc32"
+    "component": "~/pages/hospital/index.vue"
   },
   {
     "name": "hospital___en",
     "path": "/hospital",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/hospital/index.vue",
-    "chunkName": "pages/hospital/index",
-    "_name": "_383f4654"
+    "chunkName": "pages/hospital/index"
   },
   {
     "name": "widgets___en",
     "path": "/widgets",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/widgets/index.vue",
-    "chunkName": "pages/widgets/index",
-    "_name": "_5c4c8ae9"
+    "chunkName": "pages/widgets/index"
   },
   {
     "name": "account-forgot-password___en",
     "path": "/account/forgot-password",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/account/forgot-password.vue",
-    "chunkName": "pages/account/forgot-password",
-    "_name": "_240e605a"
+    "chunkName": "pages/account/forgot-password"
   },
   {
     "name": "account-login___en",
     "path": "/account/login",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/account/login.vue",
-    "chunkName": "pages/account/login",
-    "_name": "_1c23f804"
+    "chunkName": "pages/account/login"
   },
   {
     "name": "account-register___en",
     "path": "/account/register",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/account/register.vue",
-    "chunkName": "pages/account/register",
-    "_name": "_5f73ac1e"
+    "chunkName": "pages/account/register"
   },
   {
     "name": "apps-calendar___en",
     "path": "/apps/calendar",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/apps/calendar/index.vue",
-    "chunkName": "pages/apps/calendar/index",
-    "_name": "_ad49a796"
+    "chunkName": "pages/apps/calendar/index"
   },
   {
     "name": "apps-chat___en",
     "path": "/apps/chat",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/apps/chat/index.vue",
-    "chunkName": "pages/apps/chat/index",
-    "_name": "_33360c62"
+    "chunkName": "pages/apps/chat/index"
   },
   {
     "name": "apps-companies___en",
     "path": "/apps/companies",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/apps/companies/index.vue",
-    "chunkName": "pages/apps/companies/index",
-    "_name": "_ba86c14c"
+    "chunkName": "pages/apps/companies/index"
   },
   {
     "name": "apps-file-manager___en",
     "path": "/apps/file-manager",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/apps/file-manager.vue",
-    "chunkName": "pages/apps/file-manager",
-    "_name": "_7c4db750"
+    "chunkName": "pages/apps/file-manager"
   },
   {
     "name": "apps-tickets___en",
     "path": "/apps/tickets",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/apps/tickets/index.vue",
-    "chunkName": "pages/apps/tickets/index",
-    "_name": "_f042e334"
+    "chunkName": "pages/apps/tickets/index"
   },
   {
     "name": "hospital___ar",
     "path": "/ar/hospital",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/hospital/index.vue",
-    "chunkName": "pages/hospital/index",
-    "_name": "_383f4654"
+    "chunkName": "pages/hospital/index"
   },
   {
     "name": "widgets___ar",
     "path": "/ar/widgets",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/widgets/index.vue",
-    "chunkName": "pages/widgets/index",
-    "_name": "_5c4c8ae9"
+    "chunkName": "pages/widgets/index"
   },
   {
     "name": "auth-confirm-mail___en",
     "path": "/auth/confirm-mail",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/auth/confirm-mail.vue",
-    "chunkName": "pages/auth/confirm-mail",
-    "_name": "_1b5c1f22"
+    "chunkName": "pages/auth/confirm-mail"
   },
   {
     "name": "auth-confirm-mail-2___en",
     "path": "/auth/confirm-mail-2",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/auth/confirm-mail-2.vue",
-    "chunkName": "pages/auth/confirm-mail-2",
-    "_name": "_a1846072"
+    "chunkName": "pages/auth/confirm-mail-2"
   },
   {
     "name": "auth-lock-screen___en",
     "path": "/auth/lock-screen",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/auth/lock-screen.vue",
-    "chunkName": "pages/auth/lock-screen",
-    "_name": "_06857040"
+    "chunkName": "pages/auth/lock-screen"
   },
   {
     "name": "auth-lock-screen-2___en",
     "path": "/auth/lock-screen-2",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/auth/lock-screen-2.vue",
-    "chunkName": "pages/auth/lock-screen-2",
-    "_name": "_75575165"
+    "chunkName": "pages/auth/lock-screen-2"
   },
   {
     "name": "auth-login___en",
     "path": "/auth/login",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/auth/login.vue",
-    "chunkName": "pages/auth/login",
-    "_name": "_51ff165b"
+    "chunkName": "pages/auth/login"
   },
   {
     "name": "auth-login-2___en",
     "path": "/auth/login-2",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/auth/login-2.vue",
-    "chunkName": "pages/auth/login-2",
-    "_name": "_6e004680"
+    "chunkName": "pages/auth/login-2"
   },
   {
     "name": "auth-logout___en",
     "path": "/auth/logout",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/auth/logout.vue",
-    "chunkName": "pages/auth/logout",
-    "_name": "_3af4bd88"
+    "chunkName": "pages/auth/logout"
   },
   {
     "name": "auth-logout-2___en",
     "path": "/auth/logout-2",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/auth/logout-2.vue",
-    "chunkName": "pages/auth/logout-2",
-    "_name": "_4b286cad"
+    "chunkName": "pages/auth/logout-2"
   },
   {
     "name": "auth-recoverpwd___en",
     "path": "/auth/recoverpwd",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/auth/recoverpwd.vue",
-    "chunkName": "pages/auth/recoverpwd",
-    "_name": "_e5873e52"
+    "chunkName": "pages/auth/recoverpwd"
   },
   {
     "name": "auth-recoverpwd-2___en",
     "path": "/auth/recoverpwd-2",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/auth/recoverpwd-2.vue",
-    "chunkName": "pages/auth/recoverpwd-2",
-    "_name": "_2a14783c"
+    "chunkName": "pages/auth/recoverpwd-2"
   },
   {
     "name": "auth-register___en",
     "path": "/auth/register",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/auth/register.vue",
-    "chunkName": "pages/auth/register",
-    "_name": "_7bc8bebe"
+    "chunkName": "pages/auth/register"
   },
   {
     "name": "auth-register-2___en",
     "path": "/auth/register-2",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/auth/register-2.vue",
-    "chunkName": "pages/auth/register-2",
-    "_name": "_b7ba24f4"
+    "chunkName": "pages/auth/register-2"
   },
   {
     "name": "auth-signin-signup___en",
     "path": "/auth/signin-signup",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/auth/signin-signup.vue",
-    "chunkName": "pages/auth/signin-signup",
-    "_name": "_58fbf195"
+    "chunkName": "pages/auth/signin-signup"
   },
   {
     "name": "auth-signin-signup-2___en",
     "path": "/auth/signin-signup-2",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/auth/signin-signup-2.vue",
-    "chunkName": "pages/auth/signin-signup-2",
-    "_name": "_0432d17a"
+    "chunkName": "pages/auth/signin-signup-2"
   },
   {
     "name": "charts-apex___en",
     "path": "/charts/apex",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/charts/apex/index.vue",
-    "chunkName": "pages/charts/apex/index",
-    "_name": "_098ab316"
+    "chunkName": "pages/charts/apex/index"
   },
   {
     "name": "charts-c3___en",
     "path": "/charts/c3",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/charts/c3/index.vue",
-    "chunkName": "pages/charts/c3/index",
-    "_name": "_3dca7ee4"
+    "chunkName": "pages/charts/c3/index"
   },
   {
     "name": "charts-chartist___en",
     "path": "/charts/chartist",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/charts/chartist/index.vue",
-    "chunkName": "pages/charts/chartist/index",
-    "_name": "_92db2640"
+    "chunkName": "pages/charts/chartist/index"
   },
   {
     "name": "charts-chartjs___en",
     "path": "/charts/chartjs",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/charts/chartjs/index.vue",
-    "chunkName": "pages/charts/chartjs/index",
-    "_name": "_39ef7809"
+    "chunkName": "pages/charts/chartjs/index"
   },
   {
     "name": "charts-knob___en",
     "path": "/charts/knob",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/charts/knob.vue",
-    "chunkName": "pages/charts/knob",
-    "_name": "_2d8d9227"
+    "chunkName": "pages/charts/knob"
   },
   {
     "name": "contacts-list___en",
     "path": "/contacts/list",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/contacts/list.vue",
-    "chunkName": "pages/contacts/list",
-    "_name": "_47bd9651"
+    "chunkName": "pages/contacts/list"
   },
   {
     "name": "contacts-profile___en",
     "path": "/contacts/profile",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/contacts/profile.vue",
-    "chunkName": "pages/contacts/profile",
-    "_name": "_dd78d874"
+    "chunkName": "pages/contacts/profile"
   },
   {
     "name": "dashboard-analytics___en",
     "path": "/dashboard/analytics",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/dashboard/analytics/index.vue",
-    "chunkName": "pages/dashboard/analytics/index",
-    "_name": "_59f6b485"
+    "chunkName": "pages/dashboard/analytics/index"
   },
   {
     "name": "dashboard-crm___en",
     "path": "/dashboard/crm",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/dashboard/crm/index.vue",
-    "chunkName": "pages/dashboard/crm/index",
-    "_name": "_0d8567dd"
+    "chunkName": "pages/dashboard/crm/index"
   },
   {
     "name": "dashboard-sales___en",
     "path": "/dashboard/sales",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/dashboard/sales/index.vue",
-    "chunkName": "pages/dashboard/sales/index",
-    "_name": "_e897f6ea"
+    "chunkName": "pages/dashboard/sales/index"
   },
   {
     "name": "ecommerce-cart___en",
     "path": "/ecommerce/cart",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/ecommerce/cart.vue",
-    "chunkName": "pages/ecommerce/cart",
-    "_name": "_010c6eb0"
+    "chunkName": "pages/ecommerce/cart"
   },
   {
     "name": "ecommerce-checkout___en",
     "path": "/ecommerce/checkout",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/ecommerce/checkout.vue",
-    "chunkName": "pages/ecommerce/checkout",
-    "_name": "_7053c064"
+    "chunkName": "pages/ecommerce/checkout"
   },
   {
     "name": "ecommerce-customers___en",
     "path": "/ecommerce/customers",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/ecommerce/customers/index.vue",
-    "chunkName": "pages/ecommerce/customers/index",
-    "_name": "_34815c40"
+    "chunkName": "pages/ecommerce/customers/index"
   },
   {
     "name": "ecommerce-data-products___en",
     "path": "/ecommerce/data-products",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/ecommerce/data-products.js",
-    "chunkName": "pages/ecommerce/data-products",
-    "_name": "_0526cb60"
+    "chunkName": "pages/ecommerce/data-products"
   },
   {
     "name": "ecommerce-order-detail___en",
     "path": "/ecommerce/order-detail",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/ecommerce/order-detail.vue",
-    "chunkName": "pages/ecommerce/order-detail",
-    "_name": "_b7714590"
+    "chunkName": "pages/ecommerce/order-detail"
   },
   {
     "name": "ecommerce-orders___en",
     "path": "/ecommerce/orders",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/ecommerce/orders/index.vue",
-    "chunkName": "pages/ecommerce/orders/index",
-    "_name": "_41eeeab0"
+    "chunkName": "pages/ecommerce/orders/index"
   },
   {
     "name": "ecommerce-product-create___en",
     "path": "/ecommerce/product-create",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/ecommerce/product-create.vue",
-    "chunkName": "pages/ecommerce/product-create",
-    "_name": "_4a558fbc"
+    "chunkName": "pages/ecommerce/product-create"
   },
   {
     "name": "ecommerce-products___en",
     "path": "/ecommerce/products",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/ecommerce/products/index.vue",
-    "chunkName": "pages/ecommerce/products/index",
-    "_name": "_2dc8eb22"
+    "chunkName": "pages/ecommerce/products/index"
   },
   {
     "name": "ecommerce-products-grid___en",
     "path": "/ecommerce/products-grid",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/ecommerce/products-grid.vue",
-    "chunkName": "pages/ecommerce/products-grid",
-    "_name": "_6f4d5037"
+    "chunkName": "pages/ecommerce/products-grid"
   },
   {
     "name": "ecommerce-sellers___en",
     "path": "/ecommerce/sellers",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/ecommerce/sellers.vue",
-    "chunkName": "pages/ecommerce/sellers",
-    "_name": "_8b4b0f08"
+    "chunkName": "pages/ecommerce/sellers"
   },
   {
     "name": "email-data-inbox___en",
     "path": "/email/data-inbox",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/email/data-inbox.js",
-    "chunkName": "pages/email/data-inbox",
-    "_name": "_0e4b2b60"
+    "chunkName": "pages/email/data-inbox"
   },
   {
     "name": "email-inbox___en",
     "path": "/email/inbox",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/email/inbox.vue",
-    "chunkName": "pages/email/inbox",
-    "_name": "_5f7a61ec"
+    "chunkName": "pages/email/inbox"
   },
   {
     "name": "email-sidepanel___en",
     "path": "/email/sidepanel",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/email/sidepanel.vue",
-    "chunkName": "pages/email/sidepanel",
-    "_name": "_5c13a611"
+    "chunkName": "pages/email/sidepanel"
   },
   {
     "name": "email-templates___en",
     "path": "/email/templates",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/email/templates.vue",
-    "chunkName": "pages/email/templates",
-    "_name": "_588eef86"
+    "chunkName": "pages/email/templates"
   },
   {
     "name": "email-toolbar___en",
     "path": "/email/toolbar",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/email/toolbar.vue",
-    "chunkName": "pages/email/toolbar",
-    "_name": "_3fa42a7f"
+    "chunkName": "pages/email/toolbar"
   },
   {
     "name": "hospital___es",
     "path": "/es/hospital",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/hospital/index.vue",
-    "chunkName": "pages/hospital/index",
-    "_name": "_383f4654"
+    "chunkName": "pages/hospital/index"
   },
   {
     "name": "widgets___es",
     "path": "/es/widgets",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/widgets/index.vue",
-    "chunkName": "pages/widgets/index",
-    "_name": "_5c4c8ae9"
+    "chunkName": "pages/widgets/index"
   },
   {
     "name": "extended-rangeslider___en",
     "path": "/extended/rangeslider",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/extended/rangeslider.vue",
-    "chunkName": "pages/extended/rangeslider",
-    "_name": "_03b2a33e"
+    "chunkName": "pages/extended/rangeslider"
   },
   {
     "name": "extended-scrollspy___en",
     "path": "/extended/scrollspy",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/extended/scrollspy.vue",
-    "chunkName": "pages/extended/scrollspy",
-    "_name": "_83f337dc"
+    "chunkName": "pages/extended/scrollspy"
   },
   {
     "name": "extended-sweet-alert___en",
     "path": "/extended/sweet-alert",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/extended/sweet-alert.vue",
-    "chunkName": "pages/extended/sweet-alert",
-    "_name": "_60489dc2"
+    "chunkName": "pages/extended/sweet-alert"
   },
   {
     "name": "extended-tour___en",
     "path": "/extended/tour",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/extended/tour.vue",
-    "chunkName": "pages/extended/tour",
-    "_name": "_50b8f8e5"
+    "chunkName": "pages/extended/tour"
   },
   {
     "name": "extras-404___en",
     "path": "/extras/404",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/extras/404.vue",
-    "chunkName": "pages/extras/404",
-    "_name": "_5386d8a5"
+    "chunkName": "pages/extras/404"
   },
   {
     "name": "extras-404-alt___en",
     "path": "/extras/404-alt",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/extras/404-alt.vue",
-    "chunkName": "pages/extras/404-alt",
-    "_name": "_403a6a81"
+    "chunkName": "pages/extras/404-alt"
   },
   {
     "name": "extras-500___en",
     "path": "/extras/500",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/extras/500.vue",
-    "chunkName": "pages/extras/500",
-    "_name": "_ef96943c"
+    "chunkName": "pages/extras/500"
   },
   {
     "name": "extras-coming-soon___en",
     "path": "/extras/coming-soon",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/extras/coming-soon.vue",
-    "chunkName": "pages/extras/coming-soon",
-    "_name": "_c6a6d098"
+    "chunkName": "pages/extras/coming-soon"
   },
   {
     "name": "extras-faqs___en",
     "path": "/extras/faqs",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/extras/faqs.vue",
-    "chunkName": "pages/extras/faqs",
-    "_name": "_19b8d400"
+    "chunkName": "pages/extras/faqs"
   },
   {
     "name": "extras-invoice___en",
     "path": "/extras/invoice",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/extras/invoice.vue",
-    "chunkName": "pages/extras/invoice",
-    "_name": "_53dc44cc"
+    "chunkName": "pages/extras/invoice"
   },
   {
     "name": "extras-lightbox___en",
     "path": "/extras/lightbox",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/extras/lightbox.vue",
-    "chunkName": "pages/extras/lightbox",
-    "_name": "_1363dd58"
+    "chunkName": "pages/extras/lightbox"
   },
   {
     "name": "extras-maintenance___en",
     "path": "/extras/maintenance",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/extras/maintenance.vue",
-    "chunkName": "pages/extras/maintenance",
-    "_name": "_58021000"
+    "chunkName": "pages/extras/maintenance"
   },
   {
     "name": "extras-pricing___en",
     "path": "/extras/pricing",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/extras/pricing.vue",
-    "chunkName": "pages/extras/pricing",
-    "_name": "_665245b3"
+    "chunkName": "pages/extras/pricing"
   },
   {
     "name": "extras-search-results___en",
     "path": "/extras/search-results",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/extras/search-results.vue",
-    "chunkName": "pages/extras/search-results",
-    "_name": "_1fbd1ef4"
+    "chunkName": "pages/extras/search-results"
   },
   {
     "name": "extras-sitemap___en",
     "path": "/extras/sitemap",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/extras/sitemap.vue",
-    "chunkName": "pages/extras/sitemap",
-    "_name": "_7b074322"
+    "chunkName": "pages/extras/sitemap"
   },
   {
     "name": "extras-starter___en",
     "path": "/extras/starter",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/extras/starter.vue",
-    "chunkName": "pages/extras/starter",
-    "_name": "_8e754c08"
+    "chunkName": "pages/extras/starter"
   },
   {
     "name": "extras-timeline___en",
     "path": "/extras/timeline",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/extras/timeline.vue",
-    "chunkName": "pages/extras/timeline",
-    "_name": "_7e5e02a4"
+    "chunkName": "pages/extras/timeline"
   },
   {
     "name": "forms-advanced___en",
     "path": "/forms/advanced",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/forms/advanced.vue",
-    "chunkName": "pages/forms/advanced",
-    "_name": "_3606db9b"
+    "chunkName": "pages/forms/advanced"
   },
   {
     "name": "forms-elements___en",
     "path": "/forms/elements",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/forms/elements.vue",
-    "chunkName": "pages/forms/elements",
-    "_name": "_6fadc1f0"
+    "chunkName": "pages/forms/elements"
   },
   {
     "name": "forms-file-uploads___en",
     "path": "/forms/file-uploads",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/forms/file-uploads.vue",
-    "chunkName": "pages/forms/file-uploads",
-    "_name": "_7c9642ba"
+    "chunkName": "pages/forms/file-uploads"
   },
   {
     "name": "forms-mask___en",
     "path": "/forms/mask",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/forms/mask.vue",
-    "chunkName": "pages/forms/mask",
-    "_name": "_df6fc436"
+    "chunkName": "pages/forms/mask"
   },
   {
     "name": "forms-quill___en",
     "path": "/forms/quill",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/forms/quill.vue",
-    "chunkName": "pages/forms/quill",
-    "_name": "_49373e48"
+    "chunkName": "pages/forms/quill"
   },
   {
     "name": "forms-validation___en",
     "path": "/forms/validation",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/forms/validation.vue",
-    "chunkName": "pages/forms/validation",
-    "_name": "_8180779c"
+    "chunkName": "pages/forms/validation"
   },
   {
     "name": "forms-wizard___en",
     "path": "/forms/wizard",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/forms/wizard.vue",
-    "chunkName": "pages/forms/wizard",
-    "_name": "_04cff0a4"
+    "chunkName": "pages/forms/wizard"
   },
   {
     "name": "hospital___fr",
     "path": "/fr/hospital",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/hospital/index.vue",
-    "chunkName": "pages/hospital/index",
-    "_name": "_383f4654"
+    "chunkName": "pages/hospital/index"
   },
   {
     "name": "widgets___fr",
     "path": "/fr/widgets",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/widgets/index.vue",
-    "chunkName": "pages/widgets/index",
-    "_name": "_5c4c8ae9"
+    "chunkName": "pages/widgets/index"
   },
   {
     "name": "icons-boxicons___en",
     "path": "/icons/boxicons",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/icons/boxicons.vue",
-    "chunkName": "pages/icons/boxicons",
-    "_name": "_7d74701d"
+    "chunkName": "pages/icons/boxicons"
   },
   {
     "name": "icons-data-fontawesome___en",
     "path": "/icons/data-fontawesome",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/icons/data-fontawesome.js",
-    "chunkName": "pages/icons/data-fontawesome",
-    "_name": "_4b5a9730"
+    "chunkName": "pages/icons/data-fontawesome"
   },
   {
     "name": "icons-data-material___en",
     "path": "/icons/data-material",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/icons/data-material.js",
-    "chunkName": "pages/icons/data-material",
-    "_name": "_797817a3"
+    "chunkName": "pages/icons/data-material"
   },
   {
     "name": "icons-data-remix___en",
     "path": "/icons/data-remix",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/icons/data-remix.js",
-    "chunkName": "pages/icons/data-remix",
-    "_name": "_8aaf028a"
+    "chunkName": "pages/icons/data-remix"
   },
   {
     "name": "icons-feather___en",
     "path": "/icons/feather",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/icons/feather.vue",
-    "chunkName": "pages/icons/feather",
-    "_name": "_43a6ce25"
+    "chunkName": "pages/icons/feather"
   },
   {
     "name": "icons-font-awesome___en",
     "path": "/icons/font-awesome",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/icons/font-awesome.vue",
-    "chunkName": "pages/icons/font-awesome",
-    "_name": "_0d74c25a"
+    "chunkName": "pages/icons/font-awesome"
   },
   {
     "name": "icons-mdi___en",
     "path": "/icons/mdi",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/icons/mdi.vue",
-    "chunkName": "pages/icons/mdi",
-    "_name": "_08c5d0b4"
+    "chunkName": "pages/icons/mdi"
   },
   {
     "name": "icons-remix___en",
     "path": "/icons/remix",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/icons/remix.vue",
-    "chunkName": "pages/icons/remix",
-    "_name": "_740edc4b"
+    "chunkName": "pages/icons/remix"
   },
   {
     "name": "icons-weather___en",
     "path": "/icons/weather",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/icons/weather.vue",
-    "chunkName": "pages/icons/weather",
-    "_name": "_26d6acf6"
+    "chunkName": "pages/icons/weather"
   },
   {
     "name": "maps-google___en",
     "path": "/maps/google",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/maps/google.vue",
-    "chunkName": "pages/maps/google",
-    "_name": "_28b95268"
+    "chunkName": "pages/maps/google"
   },
   {
     "name": "tables-advanced___en",
     "path": "/tables/advanced",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/tables/advanced/index.vue",
-    "chunkName": "pages/tables/advanced/index",
-    "_name": "_21284986"
+    "chunkName": "pages/tables/advanced/index"
   },
   {
     "name": "tables-basic___en",
     "path": "/tables/basic",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/tables/basic.vue",
-    "chunkName": "pages/tables/basic",
-    "_name": "_46b54cdd"
+    "chunkName": "pages/tables/basic"
   },
   {
     "name": "task-detail___en",
     "path": "/task/detail",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/task/detail.vue",
-    "chunkName": "pages/task/detail",
-    "_name": "_497110d2"
+    "chunkName": "pages/task/detail"
   },
   {
     "name": "task-kanban___en",
     "path": "/task/kanban",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/task/kanban/index.vue",
-    "chunkName": "pages/task/kanban/index",
-    "_name": "_3fabbd8a"
+    "chunkName": "pages/task/kanban/index"
   },
   {
     "name": "task-list___en",
     "path": "/task/list",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/task/list.vue",
-    "chunkName": "pages/task/list",
-    "_name": "_54cf40df"
+    "chunkName": "pages/task/list"
   },
   {
     "name": "ui-avatars___en",
     "path": "/ui/avatars",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/ui/avatars.vue",
-    "chunkName": "pages/ui/avatars",
-    "_name": "_41c78550"
+    "chunkName": "pages/ui/avatars"
   },
   {
     "name": "ui-buttons___en",
     "path": "/ui/buttons",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/ui/buttons.vue",
-    "chunkName": "pages/ui/buttons",
-    "_name": "_5e8f971f"
+    "chunkName": "pages/ui/buttons"
   },
   {
     "name": "ui-cards___en",
     "path": "/ui/cards",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/ui/cards.vue",
-    "chunkName": "pages/ui/cards",
-    "_name": "_6054a781"
+    "chunkName": "pages/ui/cards"
   },
   {
     "name": "ui-carousel___en",
     "path": "/ui/carousel",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/ui/carousel.vue",
-    "chunkName": "pages/ui/carousel",
-    "_name": "_6e794732"
+    "chunkName": "pages/ui/carousel"
   },
   {
     "name": "ui-dropdowns___en",
     "path": "/ui/dropdowns",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/ui/dropdowns.vue",
-    "chunkName": "pages/ui/dropdowns",
-    "_name": "_4ecf6420"
+    "chunkName": "pages/ui/dropdowns"
   },
   {
     "name": "ui-general___en",
     "path": "/ui/general",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/ui/general.vue",
-    "chunkName": "pages/ui/general",
-    "_name": "_0a7655f4"
+    "chunkName": "pages/ui/general"
   },
   {
     "name": "ui-grid___en",
     "path": "/ui/grid",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/ui/grid.vue",
-    "chunkName": "pages/ui/grid",
-    "_name": "_5880bb18"
+    "chunkName": "pages/ui/grid"
   },
   {
     "name": "ui-images___en",
     "path": "/ui/images",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/ui/images.vue",
-    "chunkName": "pages/ui/images",
-    "_name": "_0896ba6c"
+    "chunkName": "pages/ui/images"
   },
   {
     "name": "ui-list-group___en",
     "path": "/ui/list-group",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/ui/list-group.vue",
-    "chunkName": "pages/ui/list-group",
-    "_name": "_7f6b983c"
+    "chunkName": "pages/ui/list-group"
   },
   {
     "name": "ui-modals___en",
     "path": "/ui/modals",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/ui/modals.vue",
-    "chunkName": "pages/ui/modals",
-    "_name": "_08d95690"
+    "chunkName": "pages/ui/modals"
   },
   {
     "name": "ui-notifications___en",
     "path": "/ui/notifications",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/ui/notifications.vue",
-    "chunkName": "pages/ui/notifications",
-    "_name": "_d51cb6f4"
+    "chunkName": "pages/ui/notifications"
   },
   {
     "name": "ui-portlets___en",
     "path": "/ui/portlets",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/ui/portlets.vue",
-    "chunkName": "pages/ui/portlets",
-    "_name": "_6ad0230b"
+    "chunkName": "pages/ui/portlets"
   },
   {
     "name": "ui-progress___en",
     "path": "/ui/progress",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/ui/progress.vue",
-    "chunkName": "pages/ui/progress",
-    "_name": "_32ba797f"
+    "chunkName": "pages/ui/progress"
   },
   {
     "name": "ui-ribbons___en",
     "path": "/ui/ribbons",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/ui/ribbons.vue",
-    "chunkName": "pages/ui/ribbons",
-    "_name": "_7ec47ffb"
+    "chunkName": "pages/ui/ribbons"
   },
   {
     "name": "ui-spinners___en",
     "path": "/ui/spinners",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/ui/spinners.vue",
-    "chunkName": "pages/ui/spinners",
-    "_name": "_5a1a4b68"
+    "chunkName": "pages/ui/spinners"
   },
   {
     "name": "ui-tabs-accordions___en",
     "path": "/ui/tabs-accordions",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/ui/tabs-accordions.vue",
-    "chunkName": "pages/ui/tabs-accordions",
-    "_name": "_1513bef8"
+    "chunkName": "pages/ui/tabs-accordions"
   },
   {
     "name": "ui-tooltips-popovers___en",
     "path": "/ui/tooltips-popovers",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/ui/tooltips-popovers.vue",
-    "chunkName": "pages/ui/tooltips-popovers",
-    "_name": "_4a2c25e9"
+    "chunkName": "pages/ui/tooltips-popovers"
   },
   {
     "name": "ui-typography___en",
     "path": "/ui/typography",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/ui/typography.vue",
-    "chunkName": "pages/ui/typography",
-    "_name": "_ae9a15fe"
+    "chunkName": "pages/ui/typography"
   },
   {
     "name": "ui-video___en",
     "path": "/ui/video",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/ui/video.vue",
-    "chunkName": "pages/ui/video",
-    "_name": "_8550eece"
+    "chunkName": "pages/ui/video"
   },
   {
     "name": "widgets-data___en",
     "path": "/widgets/data",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/widgets/data.js",
-    "chunkName": "pages/widgets/data",
-    "_name": "_b01ba368"
+    "chunkName": "pages/widgets/data"
   },
   {
     "name": "apps-calendar-data-calendar___en",
     "path": "/apps/calendar/data-calendar",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/apps/calendar/data-calendar.js",
-    "chunkName": "pages/apps/calendar/data-calendar",
-    "_name": "_ef2d67aa"
+    "chunkName": "pages/apps/calendar/data-calendar"
   },
   {
     "name": "apps-chat-data___en",
     "path": "/apps/chat/data",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/apps/chat/data.js",
-    "chunkName": "pages/apps/chat/data",
-    "_name": "_a9f5c29c"
+    "chunkName": "pages/apps/chat/data"
   },
   {
     "name": "apps-companies-data___en",
     "path": "/apps/companies/data",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/apps/companies/data.js",
-    "chunkName": "pages/apps/companies/data",
-    "_name": "_638eaafd"
+    "chunkName": "pages/apps/companies/data"
   },
   {
     "name": "apps-tickets-data___en",
     "path": "/apps/tickets/data",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/apps/tickets/data.js",
-    "chunkName": "pages/apps/tickets/data",
-    "_name": "_4a38ed09"
+    "chunkName": "pages/apps/tickets/data"
   },
   {
     "name": "account-forgot-password___ar",
     "path": "/ar/account/forgot-password",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/account/forgot-password.vue",
-    "chunkName": "pages/account/forgot-password",
-    "_name": "_240e605a"
+    "chunkName": "pages/account/forgot-password"
   },
   {
     "name": "account-login___ar",
     "path": "/ar/account/login",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/account/login.vue",
-    "chunkName": "pages/account/login",
-    "_name": "_1c23f804"
+    "chunkName": "pages/account/login"
   },
   {
     "name": "account-register___ar",
     "path": "/ar/account/register",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/account/register.vue",
-    "chunkName": "pages/account/register",
-    "_name": "_5f73ac1e"
+    "chunkName": "pages/account/register"
   },
   {
     "name": "apps-calendar___ar",
     "path": "/ar/apps/calendar",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/apps/calendar/index.vue",
-    "chunkName": "pages/apps/calendar/index",
-    "_name": "_ad49a796"
+    "chunkName": "pages/apps/calendar/index"
   },
   {
     "name": "apps-chat___ar",
     "path": "/ar/apps/chat",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/apps/chat/index.vue",
-    "chunkName": "pages/apps/chat/index",
-    "_name": "_33360c62"
+    "chunkName": "pages/apps/chat/index"
   },
   {
     "name": "apps-companies___ar",
     "path": "/ar/apps/companies",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/apps/companies/index.vue",
-    "chunkName": "pages/apps/companies/index",
-    "_name": "_ba86c14c"
+    "chunkName": "pages/apps/companies/index"
   },
   {
     "name": "apps-file-manager___ar",
     "path": "/ar/apps/file-manager",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/apps/file-manager.vue",
-    "chunkName": "pages/apps/file-manager",
-    "_name": "_7c4db750"
+    "chunkName": "pages/apps/file-manager"
   },
   {
     "name": "apps-tickets___ar",
     "path": "/ar/apps/tickets",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/apps/tickets/index.vue",
-    "chunkName": "pages/apps/tickets/index",
-    "_name": "_f042e334"
+    "chunkName": "pages/apps/tickets/index"
   },
   {
     "name": "auth-confirm-mail___ar",
     "path": "/ar/auth/confirm-mail",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/auth/confirm-mail.vue",
-    "chunkName": "pages/auth/confirm-mail",
-    "_name": "_1b5c1f22"
+    "chunkName": "pages/auth/confirm-mail"
   },
   {
     "name": "auth-confirm-mail-2___ar",
     "path": "/ar/auth/confirm-mail-2",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/auth/confirm-mail-2.vue",
-    "chunkName": "pages/auth/confirm-mail-2",
-    "_name": "_a1846072"
+    "chunkName": "pages/auth/confirm-mail-2"
   },
   {
     "name": "auth-lock-screen___ar",
     "path": "/ar/auth/lock-screen",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/auth/lock-screen.vue",
-    "chunkName": "pages/auth/lock-screen",
-    "_name": "_06857040"
+    "chunkName": "pages/auth/lock-screen"
   },
   {
     "name": "auth-lock-screen-2___ar",
     "path": "/ar/auth/lock-screen-2",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/auth/lock-screen-2.vue",
-    "chunkName": "pages/auth/lock-screen-2",
-    "_name": "_75575165"
+    "chunkName": "pages/auth/lock-screen-2"
   },
   {
     "name": "auth-login___ar",
     "path": "/ar/auth/login",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/auth/login.vue",
-    "chunkName": "pages/auth/login",
-    "_name": "_51ff165b"
+    "chunkName": "pages/auth/login"
   },
   {
     "name": "auth-login-2___ar",
     "path": "/ar/auth/login-2",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/auth/login-2.vue",
-    "chunkName": "pages/auth/login-2",
-    "_name": "_6e004680"
+    "chunkName": "pages/auth/login-2"
   },
   {
     "name": "auth-logout___ar",
     "path": "/ar/auth/logout",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/auth/logout.vue",
-    "chunkName": "pages/auth/logout",
-    "_name": "_3af4bd88"
+    "chunkName": "pages/auth/logout"
   },
   {
     "name": "auth-logout-2___ar",
     "path": "/ar/auth/logout-2",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/auth/logout-2.vue",
-    "chunkName": "pages/auth/logout-2",
-    "_name": "_4b286cad"
+    "chunkName": "pages/auth/logout-2"
   },
   {
     "name": "auth-recoverpwd___ar",
     "path": "/ar/auth/recoverpwd",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/auth/recoverpwd.vue",
-    "chunkName": "pages/auth/recoverpwd",
-    "_name": "_e5873e52"
+    "chunkName": "pages/auth/recoverpwd"
   },
   {
     "name": "auth-recoverpwd-2___ar",
     "path": "/ar/auth/recoverpwd-2",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/auth/recoverpwd-2.vue",
-    "chunkName": "pages/auth/recoverpwd-2",
-    "_name": "_2a14783c"
+    "chunkName": "pages/auth/recoverpwd-2"
   },
   {
     "name": "auth-register___ar",
     "path": "/ar/auth/register",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/auth/register.vue",
-    "chunkName": "pages/auth/register",
-    "_name": "_7bc8bebe"
+    "chunkName": "pages/auth/register"
   },
   {
     "name": "auth-register-2___ar",
     "path": "/ar/auth/register-2",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/auth/register-2.vue",
-    "chunkName": "pages/auth/register-2",
-    "_name": "_b7ba24f4"
+    "chunkName": "pages/auth/register-2"
   },
   {
     "name": "auth-signin-signup___ar",
     "path": "/ar/auth/signin-signup",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/auth/signin-signup.vue",
-    "chunkName": "pages/auth/signin-signup",
-    "_name": "_58fbf195"
+    "chunkName": "pages/auth/signin-signup"
   },
   {
     "name": "auth-signin-signup-2___ar",
     "path": "/ar/auth/signin-signup-2",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/auth/signin-signup-2.vue",
-    "chunkName": "pages/auth/signin-signup-2",
-    "_name": "_0432d17a"
+    "chunkName": "pages/auth/signin-signup-2"
   },
   {
     "name": "charts-apex___ar",
     "path": "/ar/charts/apex",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/charts/apex/index.vue",
-    "chunkName": "pages/charts/apex/index",
-    "_name": "_098ab316"
+    "chunkName": "pages/charts/apex/index"
   },
   {
     "name": "charts-c3___ar",
     "path": "/ar/charts/c3",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/charts/c3/index.vue",
-    "chunkName": "pages/charts/c3/index",
-    "_name": "_3dca7ee4"
+    "chunkName": "pages/charts/c3/index"
   },
   {
     "name": "charts-chartist___ar",
     "path": "/ar/charts/chartist",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/charts/chartist/index.vue",
-    "chunkName": "pages/charts/chartist/index",
-    "_name": "_92db2640"
+    "chunkName": "pages/charts/chartist/index"
   },
   {
     "name": "charts-chartjs___ar",
     "path": "/ar/charts/chartjs",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/charts/chartjs/index.vue",
-    "chunkName": "pages/charts/chartjs/index",
-    "_name": "_39ef7809"
+    "chunkName": "pages/charts/chartjs/index"
   },
   {
     "name": "charts-knob___ar",
     "path": "/ar/charts/knob",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/charts/knob.vue",
-    "chunkName": "pages/charts/knob",
-    "_name": "_2d8d9227"
+    "chunkName": "pages/charts/knob"
   },
   {
     "name": "contacts-list___ar",
     "path": "/ar/contacts/list",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/contacts/list.vue",
-    "chunkName": "pages/contacts/list",
-    "_name": "_47bd9651"
+    "chunkName": "pages/contacts/list"
   },
   {
     "name": "contacts-profile___ar",
     "path": "/ar/contacts/profile",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/contacts/profile.vue",
-    "chunkName": "pages/contacts/profile",
-    "_name": "_dd78d874"
+    "chunkName": "pages/contacts/profile"
   },
   {
     "name": "dashboard-analytics___ar",
     "path": "/ar/dashboard/analytics",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/dashboard/analytics/index.vue",
-    "chunkName": "pages/dashboard/analytics/index",
-    "_name": "_59f6b485"
+    "chunkName": "pages/dashboard/analytics/index"
   },
   {
     "name": "dashboard-crm___ar",
     "path": "/ar/dashboard/crm",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/dashboard/crm/index.vue",
-    "chunkName": "pages/dashboard/crm/index",
-    "_name": "_0d8567dd"
+    "chunkName": "pages/dashboard/crm/index"
   },
   {
     "name": "dashboard-sales___ar",
     "path": "/ar/dashboard/sales",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/dashboard/sales/index.vue",
-    "chunkName": "pages/dashboard/sales/index",
-    "_name": "_e897f6ea"
+    "chunkName": "pages/dashboard/sales/index"
   },
   {
     "name": "ecommerce-cart___ar",
     "path": "/ar/ecommerce/cart",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/ecommerce/cart.vue",
-    "chunkName": "pages/ecommerce/cart",
-    "_name": "_010c6eb0"
+    "chunkName": "pages/ecommerce/cart"
   },
   {
     "name": "ecommerce-checkout___ar",
     "path": "/ar/ecommerce/checkout",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/ecommerce/checkout.vue",
-    "chunkName": "pages/ecommerce/checkout",
-    "_name": "_7053c064"
+    "chunkName": "pages/ecommerce/checkout"
   },
   {
     "name": "ecommerce-customers___ar",
     "path": "/ar/ecommerce/customers",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/ecommerce/customers/index.vue",
-    "chunkName": "pages/ecommerce/customers/index",
-    "_name": "_34815c40"
+    "chunkName": "pages/ecommerce/customers/index"
   },
   {
     "name": "ecommerce-data-products___ar",
     "path": "/ar/ecommerce/data-products",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/ecommerce/data-products.js",
-    "chunkName": "pages/ecommerce/data-products",
-    "_name": "_0526cb60"
+    "chunkName": "pages/ecommerce/data-products"
   },
   {
     "name": "ecommerce-order-detail___ar",
     "path": "/ar/ecommerce/order-detail",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/ecommerce/order-detail.vue",
-    "chunkName": "pages/ecommerce/order-detail",
-    "_name": "_b7714590"
+    "chunkName": "pages/ecommerce/order-detail"
   },
   {
     "name": "ecommerce-orders___ar",
     "path": "/ar/ecommerce/orders",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/ecommerce/orders/index.vue",
-    "chunkName": "pages/ecommerce/orders/index",
-    "_name": "_41eeeab0"
+    "chunkName": "pages/ecommerce/orders/index"
   },
   {
     "name": "ecommerce-product-create___ar",
     "path": "/ar/ecommerce/product-create",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/ecommerce/product-create.vue",
-    "chunkName": "pages/ecommerce/product-create",
-    "_name": "_4a558fbc"
+    "chunkName": "pages/ecommerce/product-create"
   },
   {
     "name": "ecommerce-products___ar",
     "path": "/ar/ecommerce/products",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/ecommerce/products/index.vue",
-    "chunkName": "pages/ecommerce/products/index",
-    "_name": "_2dc8eb22"
+    "chunkName": "pages/ecommerce/products/index"
   },
   {
     "name": "ecommerce-products-grid___ar",
     "path": "/ar/ecommerce/products-grid",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/ecommerce/products-grid.vue",
-    "chunkName": "pages/ecommerce/products-grid",
-    "_name": "_6f4d5037"
+    "chunkName": "pages/ecommerce/products-grid"
   },
   {
     "name": "ecommerce-sellers___ar",
     "path": "/ar/ecommerce/sellers",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/ecommerce/sellers.vue",
-    "chunkName": "pages/ecommerce/sellers",
-    "_name": "_8b4b0f08"
+    "chunkName": "pages/ecommerce/sellers"
   },
   {
     "name": "email-data-inbox___ar",
     "path": "/ar/email/data-inbox",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/email/data-inbox.js",
-    "chunkName": "pages/email/data-inbox",
-    "_name": "_0e4b2b60"
+    "chunkName": "pages/email/data-inbox"
   },
   {
     "name": "email-inbox___ar",
     "path": "/ar/email/inbox",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/email/inbox.vue",
-    "chunkName": "pages/email/inbox",
-    "_name": "_5f7a61ec"
+    "chunkName": "pages/email/inbox"
   },
   {
     "name": "email-sidepanel___ar",
     "path": "/ar/email/sidepanel",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/email/sidepanel.vue",
-    "chunkName": "pages/email/sidepanel",
-    "_name": "_5c13a611"
+    "chunkName": "pages/email/sidepanel"
   },
   {
     "name": "email-templates___ar",
     "path": "/ar/email/templates",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/email/templates.vue",
-    "chunkName": "pages/email/templates",
-    "_name": "_588eef86"
+    "chunkName": "pages/email/templates"
   },
   {
     "name": "email-toolbar___ar",
     "path": "/ar/email/toolbar",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/email/toolbar.vue",
-    "chunkName": "pages/email/toolbar",
-    "_name": "_3fa42a7f"
+    "chunkName": "pages/email/toolbar"
   },
   {
     "name": "extended-rangeslider___ar",
     "path": "/ar/extended/rangeslider",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/extended/rangeslider.vue",
-    "chunkName": "pages/extended/rangeslider",
-    "_name": "_03b2a33e"
+    "chunkName": "pages/extended/rangeslider"
   },
   {
     "name": "extended-scrollspy___ar",
     "path": "/ar/extended/scrollspy",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/extended/scrollspy.vue",
-    "chunkName": "pages/extended/scrollspy",
-    "_name": "_83f337dc"
+    "chunkName": "pages/extended/scrollspy"
   },
   {
     "name": "extended-sweet-alert___ar",
     "path": "/ar/extended/sweet-alert",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/extended/sweet-alert.vue",
-    "chunkName": "pages/extended/sweet-alert",
-    "_name": "_60489dc2"
+    "chunkName": "pages/extended/sweet-alert"
   },
   {
     "name": "extended-tour___ar",
     "path": "/ar/extended/tour",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/extended/tour.vue",
-    "chunkName": "pages/extended/tour",
-    "_name": "_50b8f8e5"
+    "chunkName": "pages/extended/tour"
   },
   {
     "name": "extras-404___ar",
     "path": "/ar/extras/404",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/extras/404.vue",
-    "chunkName": "pages/extras/404",
-    "_name": "_5386d8a5"
+    "chunkName": "pages/extras/404"
   },
   {
     "name": "extras-404-alt___ar",
     "path": "/ar/extras/404-alt",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/extras/404-alt.vue",
-    "chunkName": "pages/extras/404-alt",
-    "_name": "_403a6a81"
+    "chunkName": "pages/extras/404-alt"
   },
   {
     "name": "extras-500___ar",
     "path": "/ar/extras/500",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/extras/500.vue",
-    "chunkName": "pages/extras/500",
-    "_name": "_ef96943c"
+    "chunkName": "pages/extras/500"
   },
   {
     "name": "extras-coming-soon___ar",
     "path": "/ar/extras/coming-soon",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/extras/coming-soon.vue",
-    "chunkName": "pages/extras/coming-soon",
-    "_name": "_c6a6d098"
+    "chunkName": "pages/extras/coming-soon"
   },
   {
     "name": "extras-faqs___ar",
     "path": "/ar/extras/faqs",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/extras/faqs.vue",
-    "chunkName": "pages/extras/faqs",
-    "_name": "_19b8d400"
+    "chunkName": "pages/extras/faqs"
   },
   {
     "name": "extras-invoice___ar",
     "path": "/ar/extras/invoice",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/extras/invoice.vue",
-    "chunkName": "pages/extras/invoice",
-    "_name": "_53dc44cc"
+    "chunkName": "pages/extras/invoice"
   },
   {
     "name": "extras-lightbox___ar",
     "path": "/ar/extras/lightbox",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/extras/lightbox.vue",
-    "chunkName": "pages/extras/lightbox",
-    "_name": "_1363dd58"
+    "chunkName": "pages/extras/lightbox"
   },
   {
     "name": "extras-maintenance___ar",
     "path": "/ar/extras/maintenance",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/extras/maintenance.vue",
-    "chunkName": "pages/extras/maintenance",
-    "_name": "_58021000"
+    "chunkName": "pages/extras/maintenance"
   },
   {
     "name": "extras-pricing___ar",
     "path": "/ar/extras/pricing",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/extras/pricing.vue",
-    "chunkName": "pages/extras/pricing",
-    "_name": "_665245b3"
+    "chunkName": "pages/extras/pricing"
   },
   {
     "name": "extras-search-results___ar",
     "path": "/ar/extras/search-results",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/extras/search-results.vue",
-    "chunkName": "pages/extras/search-results",
-    "_name": "_1fbd1ef4"
+    "chunkName": "pages/extras/search-results"
   },
   {
     "name": "extras-sitemap___ar",
     "path": "/ar/extras/sitemap",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/extras/sitemap.vue",
-    "chunkName": "pages/extras/sitemap",
-    "_name": "_7b074322"
+    "chunkName": "pages/extras/sitemap"
   },
   {
     "name": "extras-starter___ar",
     "path": "/ar/extras/starter",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/extras/starter.vue",
-    "chunkName": "pages/extras/starter",
-    "_name": "_8e754c08"
+    "chunkName": "pages/extras/starter"
   },
   {
     "name": "extras-timeline___ar",
     "path": "/ar/extras/timeline",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/extras/timeline.vue",
-    "chunkName": "pages/extras/timeline",
-    "_name": "_7e5e02a4"
+    "chunkName": "pages/extras/timeline"
   },
   {
     "name": "forms-advanced___ar",
     "path": "/ar/forms/advanced",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/forms/advanced.vue",
-    "chunkName": "pages/forms/advanced",
-    "_name": "_3606db9b"
+    "chunkName": "pages/forms/advanced"
   },
   {
     "name": "forms-elements___ar",
     "path": "/ar/forms/elements",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/forms/elements.vue",
-    "chunkName": "pages/forms/elements",
-    "_name": "_6fadc1f0"
+    "chunkName": "pages/forms/elements"
   },
   {
     "name": "forms-file-uploads___ar",
     "path": "/ar/forms/file-uploads",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/forms/file-uploads.vue",
-    "chunkName": "pages/forms/file-uploads",
-    "_name": "_7c9642ba"
+    "chunkName": "pages/forms/file-uploads"
   },
   {
     "name": "forms-mask___ar",
     "path": "/ar/forms/mask",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/forms/mask.vue",
-    "chunkName": "pages/forms/mask",
-    "_name": "_df6fc436"
+    "chunkName": "pages/forms/mask"
   },
   {
     "name": "forms-quill___ar",
     "path": "/ar/forms/quill",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/forms/quill.vue",
-    "chunkName": "pages/forms/quill",
-    "_name": "_49373e48"
+    "chunkName": "pages/forms/quill"
   },
   {
     "name": "forms-validation___ar",
     "path": "/ar/forms/validation",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/forms/validation.vue",
-    "chunkName": "pages/forms/validation",
-    "_name": "_8180779c"
+    "chunkName": "pages/forms/validation"
   },
   {
     "name": "forms-wizard___ar",
     "path": "/ar/forms/wizard",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/forms/wizard.vue",
-    "chunkName": "pages/forms/wizard",
-    "_name": "_04cff0a4"
+    "chunkName": "pages/forms/wizard"
   },
   {
     "name": "icons-boxicons___ar",
     "path": "/ar/icons/boxicons",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/icons/boxicons.vue",
-    "chunkName": "pages/icons/boxicons",
-    "_name": "_7d74701d"
+    "chunkName": "pages/icons/boxicons"
   },
   {
     "name": "icons-data-fontawesome___ar",
     "path": "/ar/icons/data-fontawesome",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/icons/data-fontawesome.js",
-    "chunkName": "pages/icons/data-fontawesome",
-    "_name": "_4b5a9730"
+    "chunkName": "pages/icons/data-fontawesome"
   },
   {
     "name": "icons-data-material___ar",
     "path": "/ar/icons/data-material",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/icons/data-material.js",
-    "chunkName": "pages/icons/data-material",
-    "_name": "_797817a3"
+    "chunkName": "pages/icons/data-material"
   },
   {
     "name": "icons-data-remix___ar",
     "path": "/ar/icons/data-remix",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/icons/data-remix.js",
-    "chunkName": "pages/icons/data-remix",
-    "_name": "_8aaf028a"
+    "chunkName": "pages/icons/data-remix"
   },
   {
     "name": "icons-feather___ar",
     "path": "/ar/icons/feather",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/icons/feather.vue",
-    "chunkName": "pages/icons/feather",
-    "_name": "_43a6ce25"
+    "chunkName": "pages/icons/feather"
   },
   {
     "name": "icons-font-awesome___ar",
     "path": "/ar/icons/font-awesome",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/icons/font-awesome.vue",
-    "chunkName": "pages/icons/font-awesome",
-    "_name": "_0d74c25a"
+    "chunkName": "pages/icons/font-awesome"
   },
   {
     "name": "icons-mdi___ar",
     "path": "/ar/icons/mdi",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/icons/mdi.vue",
-    "chunkName": "pages/icons/mdi",
-    "_name": "_08c5d0b4"
+    "chunkName": "pages/icons/mdi"
   },
   {
     "name": "icons-remix___ar",
     "path": "/ar/icons/remix",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/icons/remix.vue",
-    "chunkName": "pages/icons/remix",
-    "_name": "_740edc4b"
+    "chunkName": "pages/icons/remix"
   },
   {
     "name": "icons-weather___ar",
     "path": "/ar/icons/weather",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/icons/weather.vue",
-    "chunkName": "pages/icons/weather",
-    "_name": "_26d6acf6"
+    "chunkName": "pages/icons/weather"
   },
   {
     "name": "maps-google___ar",
     "path": "/ar/maps/google",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/maps/google.vue",
-    "chunkName": "pages/maps/google",
-    "_name": "_28b95268"
+    "chunkName": "pages/maps/google"
   },
   {
     "name": "tables-advanced___ar",
     "path": "/ar/tables/advanced",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/tables/advanced/index.vue",
-    "chunkName": "pages/tables/advanced/index",
-    "_name": "_21284986"
+    "chunkName": "pages/tables/advanced/index"
   },
   {
     "name": "tables-basic___ar",
     "path": "/ar/tables/basic",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/tables/basic.vue",
-    "chunkName": "pages/tables/basic",
-    "_name": "_46b54cdd"
+    "chunkName": "pages/tables/basic"
   },
   {
     "name": "task-detail___ar",
     "path": "/ar/task/detail",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/task/detail.vue",
-    "chunkName": "pages/task/detail",
-    "_name": "_497110d2"
+    "chunkName": "pages/task/detail"
   },
   {
     "name": "task-kanban___ar",
     "path": "/ar/task/kanban",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/task/kanban/index.vue",
-    "chunkName": "pages/task/kanban/index",
-    "_name": "_3fabbd8a"
+    "chunkName": "pages/task/kanban/index"
   },
   {
     "name": "task-list___ar",
     "path": "/ar/task/list",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/task/list.vue",
-    "chunkName": "pages/task/list",
-    "_name": "_54cf40df"
+    "chunkName": "pages/task/list"
   },
   {
     "name": "ui-avatars___ar",
     "path": "/ar/ui/avatars",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/ui/avatars.vue",
-    "chunkName": "pages/ui/avatars",
-    "_name": "_41c78550"
+    "chunkName": "pages/ui/avatars"
   },
   {
     "name": "ui-buttons___ar",
     "path": "/ar/ui/buttons",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/ui/buttons.vue",
-    "chunkName": "pages/ui/buttons",
-    "_name": "_5e8f971f"
+    "chunkName": "pages/ui/buttons"
   },
   {
     "name": "ui-cards___ar",
     "path": "/ar/ui/cards",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/ui/cards.vue",
-    "chunkName": "pages/ui/cards",
-    "_name": "_6054a781"
+    "chunkName": "pages/ui/cards"
   },
   {
     "name": "ui-carousel___ar",
     "path": "/ar/ui/carousel",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/ui/carousel.vue",
-    "chunkName": "pages/ui/carousel",
-    "_name": "_6e794732"
+    "chunkName": "pages/ui/carousel"
   },
   {
     "name": "ui-dropdowns___ar",
     "path": "/ar/ui/dropdowns",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/ui/dropdowns.vue",
-    "chunkName": "pages/ui/dropdowns",
-    "_name": "_4ecf6420"
+    "chunkName": "pages/ui/dropdowns"
   },
   {
     "name": "ui-general___ar",
     "path": "/ar/ui/general",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/ui/general.vue",
-    "chunkName": "pages/ui/general",
-    "_name": "_0a7655f4"
+    "chunkName": "pages/ui/general"
   },
   {
     "name": "ui-grid___ar",
     "path": "/ar/ui/grid",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/ui/grid.vue",
-    "chunkName": "pages/ui/grid",
-    "_name": "_5880bb18"
+    "chunkName": "pages/ui/grid"
   },
   {
     "name": "ui-images___ar",
     "path": "/ar/ui/images",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/ui/images.vue",
-    "chunkName": "pages/ui/images",
-    "_name": "_0896ba6c"
+    "chunkName": "pages/ui/images"
   },
   {
     "name": "ui-list-group___ar",
     "path": "/ar/ui/list-group",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/ui/list-group.vue",
-    "chunkName": "pages/ui/list-group",
-    "_name": "_7f6b983c"
+    "chunkName": "pages/ui/list-group"
   },
   {
     "name": "ui-modals___ar",
     "path": "/ar/ui/modals",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/ui/modals.vue",
-    "chunkName": "pages/ui/modals",
-    "_name": "_08d95690"
+    "chunkName": "pages/ui/modals"
   },
   {
     "name": "ui-notifications___ar",
     "path": "/ar/ui/notifications",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/ui/notifications.vue",
-    "chunkName": "pages/ui/notifications",
-    "_name": "_d51cb6f4"
+    "chunkName": "pages/ui/notifications"
   },
   {
     "name": "ui-portlets___ar",
     "path": "/ar/ui/portlets",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/ui/portlets.vue",
-    "chunkName": "pages/ui/portlets",
-    "_name": "_6ad0230b"
+    "chunkName": "pages/ui/portlets"
   },
   {
     "name": "ui-progress___ar",
     "path": "/ar/ui/progress",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/ui/progress.vue",
-    "chunkName": "pages/ui/progress",
-    "_name": "_32ba797f"
+    "chunkName": "pages/ui/progress"
   },
   {
     "name": "ui-ribbons___ar",
     "path": "/ar/ui/ribbons",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/ui/ribbons.vue",
-    "chunkName": "pages/ui/ribbons",
-    "_name": "_7ec47ffb"
+    "chunkName": "pages/ui/ribbons"
   },
   {
     "name": "ui-spinners___ar",
     "path": "/ar/ui/spinners",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/ui/spinners.vue",
-    "chunkName": "pages/ui/spinners",
-    "_name": "_5a1a4b68"
+    "chunkName": "pages/ui/spinners"
   },
   {
     "name": "ui-tabs-accordions___ar",
     "path": "/ar/ui/tabs-accordions",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/ui/tabs-accordions.vue",
-    "chunkName": "pages/ui/tabs-accordions",
-    "_name": "_1513bef8"
+    "chunkName": "pages/ui/tabs-accordions"
   },
   {
     "name": "ui-tooltips-popovers___ar",
     "path": "/ar/ui/tooltips-popovers",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/ui/tooltips-popovers.vue",
-    "chunkName": "pages/ui/tooltips-popovers",
-    "_name": "_4a2c25e9"
+    "chunkName": "pages/ui/tooltips-popovers"
   },
   {
     "name": "ui-typography___ar",
     "path": "/ar/ui/typography",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/ui/typography.vue",
-    "chunkName": "pages/ui/typography",
-    "_name": "_ae9a15fe"
+    "chunkName": "pages/ui/typography"
   },
   {
     "name": "ui-video___ar",
     "path": "/ar/ui/video",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/ui/video.vue",
-    "chunkName": "pages/ui/video",
-    "_name": "_8550eece"
+    "chunkName": "pages/ui/video"
   },
   {
     "name": "widgets-data___ar",
     "path": "/ar/widgets/data",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/widgets/data.js",
-    "chunkName": "pages/widgets/data",
-    "_name": "_b01ba368"
+    "chunkName": "pages/widgets/data"
   },
   {
     "name": "charts-apex-data___en",
     "path": "/charts/apex/data",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/charts/apex/data.js",
-    "chunkName": "pages/charts/apex/data",
-    "_name": "_49067db9"
+    "chunkName": "pages/charts/apex/data"
   },
   {
     "name": "charts-c3-data___en",
     "path": "/charts/c3/data",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/charts/c3/data.js",
-    "chunkName": "pages/charts/c3/data",
-    "_name": "_0a7a35f2"
+    "chunkName": "pages/charts/c3/data"
   },
   {
     "name": "charts-chartist-data___en",
     "path": "/charts/chartist/data",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/charts/chartist/data.js",
-    "chunkName": "pages/charts/chartist/data",
-    "_name": "_0f662203"
+    "chunkName": "pages/charts/chartist/data"
   },
   {
     "name": "charts-chartjs-BarChart___en",
     "path": "/charts/chartjs/BarChart",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/charts/chartjs/BarChart.vue",
-    "chunkName": "pages/charts/chartjs/BarChart",
-    "_name": "_1357ca78"
+    "chunkName": "pages/charts/chartjs/BarChart"
   },
   {
     "name": "charts-chartjs-DonutChart___en",
     "path": "/charts/chartjs/DonutChart",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/charts/chartjs/DonutChart.vue",
-    "chunkName": "pages/charts/chartjs/DonutChart",
-    "_name": "_01da4455"
+    "chunkName": "pages/charts/chartjs/DonutChart"
   },
   {
     "name": "charts-chartjs-LineChart___en",
     "path": "/charts/chartjs/LineChart",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/charts/chartjs/LineChart.vue",
-    "chunkName": "pages/charts/chartjs/LineChart",
-    "_name": "_67532be1"
+    "chunkName": "pages/charts/chartjs/LineChart"
   },
   {
     "name": "charts-chartjs-PieChart___en",
     "path": "/charts/chartjs/PieChart",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/charts/chartjs/PieChart.vue",
-    "chunkName": "pages/charts/chartjs/PieChart",
-    "_name": "_bd14052a"
+    "chunkName": "pages/charts/chartjs/PieChart"
   },
   {
     "name": "charts-chartjs-PolarChart___en",
     "path": "/charts/chartjs/PolarChart",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/charts/chartjs/PolarChart.vue",
-    "chunkName": "pages/charts/chartjs/PolarChart",
-    "_name": "_0328d88e"
+    "chunkName": "pages/charts/chartjs/PolarChart"
   },
   {
     "name": "charts-chartjs-RadarChart___en",
     "path": "/charts/chartjs/RadarChart",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/charts/chartjs/RadarChart.vue",
-    "chunkName": "pages/charts/chartjs/RadarChart",
-    "_name": "_796fa0f1"
+    "chunkName": "pages/charts/chartjs/RadarChart"
   },
   {
     "name": "dashboard-analytics-channels___en",
     "path": "/dashboard/analytics/channels",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/dashboard/analytics/channels.vue",
-    "chunkName": "pages/dashboard/analytics/channels",
-    "_name": "_17c5e26d"
+    "chunkName": "pages/dashboard/analytics/channels"
   },
   {
     "name": "dashboard-analytics-overview___en",
     "path": "/dashboard/analytics/overview",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/dashboard/analytics/overview.vue",
-    "chunkName": "pages/dashboard/analytics/overview",
-    "_name": "_7c88a0d4"
+    "chunkName": "pages/dashboard/analytics/overview"
   },
   {
     "name": "dashboard-analytics-social-media___en",
     "path": "/dashboard/analytics/social-media",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/dashboard/analytics/social-media.vue",
-    "chunkName": "pages/dashboard/analytics/social-media",
-    "_name": "_6871cfa1"
+    "chunkName": "pages/dashboard/analytics/social-media"
   },
   {
     "name": "dashboard-analytics-sources___en",
     "path": "/dashboard/analytics/sources",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/dashboard/analytics/sources.vue",
-    "chunkName": "pages/dashboard/analytics/sources",
-    "_name": "_bc07acaa"
+    "chunkName": "pages/dashboard/analytics/sources"
   },
   {
     "name": "dashboard-analytics-users___en",
     "path": "/dashboard/analytics/users",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/dashboard/analytics/users.vue",
-    "chunkName": "pages/dashboard/analytics/users",
-    "_name": "_c13ee28a"
+    "chunkName": "pages/dashboard/analytics/users"
   },
   {
     "name": "ecommerce-customers-data___en",
     "path": "/ecommerce/customers/data",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/ecommerce/customers/data.js",
-    "chunkName": "pages/ecommerce/customers/data",
-    "_name": "_69096963"
+    "chunkName": "pages/ecommerce/customers/data"
   },
   {
     "name": "ecommerce-orders-data___en",
     "path": "/ecommerce/orders/data",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/ecommerce/orders/data.js",
-    "chunkName": "pages/ecommerce/orders/data",
-    "_name": "_5730585a"
+    "chunkName": "pages/ecommerce/orders/data"
   },
   {
     "name": "ecommerce-products-data___en",
     "path": "/ecommerce/products/data",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/ecommerce/products/data.js",
-    "chunkName": "pages/ecommerce/products/data",
-    "_name": "_8531515c"
+    "chunkName": "pages/ecommerce/products/data"
   },
   {
     "name": "account-forgot-password___es",
     "path": "/es/account/forgot-password",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/account/forgot-password.vue",
-    "chunkName": "pages/account/forgot-password",
-    "_name": "_240e605a"
+    "chunkName": "pages/account/forgot-password"
   },
   {
     "name": "account-login___es",
     "path": "/es/account/login",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/account/login.vue",
-    "chunkName": "pages/account/login",
-    "_name": "_1c23f804"
+    "chunkName": "pages/account/login"
   },
   {
     "name": "account-register___es",
     "path": "/es/account/register",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/account/register.vue",
-    "chunkName": "pages/account/register",
-    "_name": "_5f73ac1e"
+    "chunkName": "pages/account/register"
   },
   {
     "name": "apps-calendar___es",
     "path": "/es/apps/calendar",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/apps/calendar/index.vue",
-    "chunkName": "pages/apps/calendar/index",
-    "_name": "_ad49a796"
+    "chunkName": "pages/apps/calendar/index"
   },
   {
     "name": "apps-chat___es",
     "path": "/es/apps/chat",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/apps/chat/index.vue",
-    "chunkName": "pages/apps/chat/index",
-    "_name": "_33360c62"
+    "chunkName": "pages/apps/chat/index"
   },
   {
     "name": "apps-companies___es",
     "path": "/es/apps/companies",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/apps/companies/index.vue",
-    "chunkName": "pages/apps/companies/index",
-    "_name": "_ba86c14c"
+    "chunkName": "pages/apps/companies/index"
   },
   {
     "name": "apps-file-manager___es",
     "path": "/es/apps/file-manager",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/apps/file-manager.vue",
-    "chunkName": "pages/apps/file-manager",
-    "_name": "_7c4db750"
+    "chunkName": "pages/apps/file-manager"
   },
   {
     "name": "apps-tickets___es",
     "path": "/es/apps/tickets",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/apps/tickets/index.vue",
-    "chunkName": "pages/apps/tickets/index",
-    "_name": "_f042e334"
+    "chunkName": "pages/apps/tickets/index"
   },
   {
     "name": "auth-confirm-mail___es",
     "path": "/es/auth/confirm-mail",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/auth/confirm-mail.vue",
-    "chunkName": "pages/auth/confirm-mail",
-    "_name": "_1b5c1f22"
+    "chunkName": "pages/auth/confirm-mail"
   },
   {
     "name": "auth-confirm-mail-2___es",
     "path": "/es/auth/confirm-mail-2",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/auth/confirm-mail-2.vue",
-    "chunkName": "pages/auth/confirm-mail-2",
-    "_name": "_a1846072"
+    "chunkName": "pages/auth/confirm-mail-2"
   },
   {
     "name": "auth-lock-screen___es",
     "path": "/es/auth/lock-screen",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/auth/lock-screen.vue",
-    "chunkName": "pages/auth/lock-screen",
-    "_name": "_06857040"
+    "chunkName": "pages/auth/lock-screen"
   },
   {
     "name": "auth-lock-screen-2___es",
     "path": "/es/auth/lock-screen-2",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/auth/lock-screen-2.vue",
-    "chunkName": "pages/auth/lock-screen-2",
-    "_name": "_75575165"
+    "chunkName": "pages/auth/lock-screen-2"
   },
   {
     "name": "auth-login___es",
     "path": "/es/auth/login",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/auth/login.vue",
-    "chunkName": "pages/auth/login",
-    "_name": "_51ff165b"
+    "chunkName": "pages/auth/login"
   },
   {
     "name": "auth-login-2___es",
     "path": "/es/auth/login-2",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/auth/login-2.vue",
-    "chunkName": "pages/auth/login-2",
-    "_name": "_6e004680"
+    "chunkName": "pages/auth/login-2"
   },
   {
     "name": "auth-logout___es",
     "path": "/es/auth/logout",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/auth/logout.vue",
-    "chunkName": "pages/auth/logout",
-    "_name": "_3af4bd88"
+    "chunkName": "pages/auth/logout"
   },
   {
     "name": "auth-logout-2___es",
     "path": "/es/auth/logout-2",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/auth/logout-2.vue",
-    "chunkName": "pages/auth/logout-2",
-    "_name": "_4b286cad"
+    "chunkName": "pages/auth/logout-2"
   },
   {
     "name": "auth-recoverpwd___es",
     "path": "/es/auth/recoverpwd",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/auth/recoverpwd.vue",
-    "chunkName": "pages/auth/recoverpwd",
-    "_name": "_e5873e52"
+    "chunkName": "pages/auth/recoverpwd"
   },
   {
     "name": "auth-recoverpwd-2___es",
     "path": "/es/auth/recoverpwd-2",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/auth/recoverpwd-2.vue",
-    "chunkName": "pages/auth/recoverpwd-2",
-    "_name": "_2a14783c"
+    "chunkName": "pages/auth/recoverpwd-2"
   },
   {
     "name": "auth-register___es",
     "path": "/es/auth/register",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/auth/register.vue",
-    "chunkName": "pages/auth/register",
-    "_name": "_7bc8bebe"
+    "chunkName": "pages/auth/register"
   },
   {
     "name": "auth-register-2___es",
     "path": "/es/auth/register-2",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/auth/register-2.vue",
-    "chunkName": "pages/auth/register-2",
-    "_name": "_b7ba24f4"
+    "chunkName": "pages/auth/register-2"
   },
   {
     "name": "auth-signin-signup___es",
     "path": "/es/auth/signin-signup",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/auth/signin-signup.vue",
-    "chunkName": "pages/auth/signin-signup",
-    "_name": "_58fbf195"
+    "chunkName": "pages/auth/signin-signup"
   },
   {
     "name": "auth-signin-signup-2___es",
     "path": "/es/auth/signin-signup-2",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/auth/signin-signup-2.vue",
-    "chunkName": "pages/auth/signin-signup-2",
-    "_name": "_0432d17a"
+    "chunkName": "pages/auth/signin-signup-2"
   },
   {
     "name": "charts-apex___es",
     "path": "/es/charts/apex",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/charts/apex/index.vue",
-    "chunkName": "pages/charts/apex/index",
-    "_name": "_098ab316"
+    "chunkName": "pages/charts/apex/index"
   },
   {
     "name": "charts-c3___es",
     "path": "/es/charts/c3",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/charts/c3/index.vue",
-    "chunkName": "pages/charts/c3/index",
-    "_name": "_3dca7ee4"
+    "chunkName": "pages/charts/c3/index"
   },
   {
     "name": "charts-chartist___es",
     "path": "/es/charts/chartist",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/charts/chartist/index.vue",
-    "chunkName": "pages/charts/chartist/index",
-    "_name": "_92db2640"
+    "chunkName": "pages/charts/chartist/index"
   },
   {
     "name": "charts-chartjs___es",
     "path": "/es/charts/chartjs",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/charts/chartjs/index.vue",
-    "chunkName": "pages/charts/chartjs/index",
-    "_name": "_39ef7809"
+    "chunkName": "pages/charts/chartjs/index"
   },
   {
     "name": "charts-knob___es",
     "path": "/es/charts/knob",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/charts/knob.vue",
-    "chunkName": "pages/charts/knob",
-    "_name": "_2d8d9227"
+    "chunkName": "pages/charts/knob"
   },
   {
     "name": "contacts-list___es",
     "path": "/es/contacts/list",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/contacts/list.vue",
-    "chunkName": "pages/contacts/list",
-    "_name": "_47bd9651"
+    "chunkName": "pages/contacts/list"
   },
   {
     "name": "contacts-profile___es",
     "path": "/es/contacts/profile",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/contacts/profile.vue",
-    "chunkName": "pages/contacts/profile",
-    "_name": "_dd78d874"
+    "chunkName": "pages/contacts/profile"
   },
   {
     "name": "dashboard-analytics___es",
     "path": "/es/dashboard/analytics",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/dashboard/analytics/index.vue",
-    "chunkName": "pages/dashboard/analytics/index",
-    "_name": "_59f6b485"
+    "chunkName": "pages/dashboard/analytics/index"
   },
   {
     "name": "dashboard-crm___es",
     "path": "/es/dashboard/crm",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/dashboard/crm/index.vue",
-    "chunkName": "pages/dashboard/crm/index",
-    "_name": "_0d8567dd"
+    "chunkName": "pages/dashboard/crm/index"
   },
   {
     "name": "dashboard-sales___es",
     "path": "/es/dashboard/sales",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/dashboard/sales/index.vue",
-    "chunkName": "pages/dashboard/sales/index",
-    "_name": "_e897f6ea"
+    "chunkName": "pages/dashboard/sales/index"
   },
   {
     "name": "ecommerce-cart___es",
     "path": "/es/ecommerce/cart",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/ecommerce/cart.vue",
-    "chunkName": "pages/ecommerce/cart",
-    "_name": "_010c6eb0"
+    "chunkName": "pages/ecommerce/cart"
   },
   {
     "name": "ecommerce-checkout___es",
     "path": "/es/ecommerce/checkout",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/ecommerce/checkout.vue",
-    "chunkName": "pages/ecommerce/checkout",
-    "_name": "_7053c064"
+    "chunkName": "pages/ecommerce/checkout"
   },
   {
     "name": "ecommerce-customers___es",
     "path": "/es/ecommerce/customers",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/ecommerce/customers/index.vue",
-    "chunkName": "pages/ecommerce/customers/index",
-    "_name": "_34815c40"
+    "chunkName": "pages/ecommerce/customers/index"
   },
   {
     "name": "ecommerce-data-products___es",
     "path": "/es/ecommerce/data-products",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/ecommerce/data-products.js",
-    "chunkName": "pages/ecommerce/data-products",
-    "_name": "_0526cb60"
+    "chunkName": "pages/ecommerce/data-products"
   },
   {
     "name": "ecommerce-order-detail___es",
     "path": "/es/ecommerce/order-detail",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/ecommerce/order-detail.vue",
-    "chunkName": "pages/ecommerce/order-detail",
-    "_name": "_b7714590"
+    "chunkName": "pages/ecommerce/order-detail"
   },
   {
     "name": "ecommerce-orders___es",
     "path": "/es/ecommerce/orders",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/ecommerce/orders/index.vue",
-    "chunkName": "pages/ecommerce/orders/index",
-    "_name": "_41eeeab0"
+    "chunkName": "pages/ecommerce/orders/index"
   },
   {
     "name": "ecommerce-product-create___es",
     "path": "/es/ecommerce/product-create",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/ecommerce/product-create.vue",
-    "chunkName": "pages/ecommerce/product-create",
-    "_name": "_4a558fbc"
+    "chunkName": "pages/ecommerce/product-create"
   },
   {
     "name": "ecommerce-products___es",
     "path": "/es/ecommerce/products",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/ecommerce/products/index.vue",
-    "chunkName": "pages/ecommerce/products/index",
-    "_name": "_2dc8eb22"
+    "chunkName": "pages/ecommerce/products/index"
   },
   {
     "name": "ecommerce-products-grid___es",
     "path": "/es/ecommerce/products-grid",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/ecommerce/products-grid.vue",
-    "chunkName": "pages/ecommerce/products-grid",
-    "_name": "_6f4d5037"
+    "chunkName": "pages/ecommerce/products-grid"
   },
   {
     "name": "ecommerce-sellers___es",
     "path": "/es/ecommerce/sellers",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/ecommerce/sellers.vue",
-    "chunkName": "pages/ecommerce/sellers",
-    "_name": "_8b4b0f08"
+    "chunkName": "pages/ecommerce/sellers"
   },
   {
     "name": "email-data-inbox___es",
     "path": "/es/email/data-inbox",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/email/data-inbox.js",
-    "chunkName": "pages/email/data-inbox",
-    "_name": "_0e4b2b60"
+    "chunkName": "pages/email/data-inbox"
   },
   {
     "name": "email-inbox___es",
     "path": "/es/email/inbox",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/email/inbox.vue",
-    "chunkName": "pages/email/inbox",
-    "_name": "_5f7a61ec"
+    "chunkName": "pages/email/inbox"
   },
   {
     "name": "email-sidepanel___es",
     "path": "/es/email/sidepanel",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/email/sidepanel.vue",
-    "chunkName": "pages/email/sidepanel",
-    "_name": "_5c13a611"
+    "chunkName": "pages/email/sidepanel"
   },
   {
     "name": "email-templates___es",
     "path": "/es/email/templates",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/email/templates.vue",
-    "chunkName": "pages/email/templates",
-    "_name": "_588eef86"
+    "chunkName": "pages/email/templates"
   },
   {
     "name": "email-toolbar___es",
     "path": "/es/email/toolbar",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/email/toolbar.vue",
-    "chunkName": "pages/email/toolbar",
-    "_name": "_3fa42a7f"
+    "chunkName": "pages/email/toolbar"
   },
   {
     "name": "extended-rangeslider___es",
     "path": "/es/extended/rangeslider",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/extended/rangeslider.vue",
-    "chunkName": "pages/extended/rangeslider",
-    "_name": "_03b2a33e"
+    "chunkName": "pages/extended/rangeslider"
   },
   {
     "name": "extended-scrollspy___es",
     "path": "/es/extended/scrollspy",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/extended/scrollspy.vue",
-    "chunkName": "pages/extended/scrollspy",
-    "_name": "_83f337dc"
+    "chunkName": "pages/extended/scrollspy"
   },
   {
     "name": "extended-sweet-alert___es",
     "path": "/es/extended/sweet-alert",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/extended/sweet-alert.vue",
-    "chunkName": "pages/extended/sweet-alert",
-    "_name": "_60489dc2"
+    "chunkName": "pages/extended/sweet-alert"
   },
   {
     "name": "extended-tour___es",
     "path": "/es/extended/tour",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/extended/tour.vue",
-    "chunkName": "pages/extended/tour",
-    "_name": "_50b8f8e5"
+    "chunkName": "pages/extended/tour"
   },
   {
     "name": "extras-404___es",
     "path": "/es/extras/404",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/extras/404.vue",
-    "chunkName": "pages/extras/404",
-    "_name": "_5386d8a5"
+    "chunkName": "pages/extras/404"
   },
   {
     "name": "extras-404-alt___es",
     "path": "/es/extras/404-alt",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/extras/404-alt.vue",
-    "chunkName": "pages/extras/404-alt",
-    "_name": "_403a6a81"
+    "chunkName": "pages/extras/404-alt"
   },
   {
     "name": "extras-500___es",
     "path": "/es/extras/500",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/extras/500.vue",
-    "chunkName": "pages/extras/500",
-    "_name": "_ef96943c"
+    "chunkName": "pages/extras/500"
   },
   {
     "name": "extras-coming-soon___es",
     "path": "/es/extras/coming-soon",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/extras/coming-soon.vue",
-    "chunkName": "pages/extras/coming-soon",
-    "_name": "_c6a6d098"
+    "chunkName": "pages/extras/coming-soon"
   },
   {
     "name": "extras-faqs___es",
     "path": "/es/extras/faqs",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/extras/faqs.vue",
-    "chunkName": "pages/extras/faqs",
-    "_name": "_19b8d400"
+    "chunkName": "pages/extras/faqs"
   },
   {
     "name": "extras-invoice___es",
     "path": "/es/extras/invoice",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/extras/invoice.vue",
-    "chunkName": "pages/extras/invoice",
-    "_name": "_53dc44cc"
+    "chunkName": "pages/extras/invoice"
   },
   {
     "name": "extras-lightbox___es",
     "path": "/es/extras/lightbox",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/extras/lightbox.vue",
-    "chunkName": "pages/extras/lightbox",
-    "_name": "_1363dd58"
+    "chunkName": "pages/extras/lightbox"
   },
   {
     "name": "extras-maintenance___es",
     "path": "/es/extras/maintenance",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/extras/maintenance.vue",
-    "chunkName": "pages/extras/maintenance",
-    "_name": "_58021000"
+    "chunkName": "pages/extras/maintenance"
   },
   {
     "name": "extras-pricing___es",
     "path": "/es/extras/pricing",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/extras/pricing.vue",
-    "chunkName": "pages/extras/pricing",
-    "_name": "_665245b3"
+    "chunkName": "pages/extras/pricing"
   },
   {
     "name": "extras-search-results___es",
     "path": "/es/extras/search-results",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/extras/search-results.vue",
-    "chunkName": "pages/extras/search-results",
-    "_name": "_1fbd1ef4"
+    "chunkName": "pages/extras/search-results"
   },
   {
     "name": "extras-sitemap___es",
     "path": "/es/extras/sitemap",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/extras/sitemap.vue",
-    "chunkName": "pages/extras/sitemap",
-    "_name": "_7b074322"
+    "chunkName": "pages/extras/sitemap"
   },
   {
     "name": "extras-starter___es",
     "path": "/es/extras/starter",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/extras/starter.vue",
-    "chunkName": "pages/extras/starter",
-    "_name": "_8e754c08"
+    "chunkName": "pages/extras/starter"
   },
   {
     "name": "extras-timeline___es",
     "path": "/es/extras/timeline",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/extras/timeline.vue",
-    "chunkName": "pages/extras/timeline",
-    "_name": "_7e5e02a4"
+    "chunkName": "pages/extras/timeline"
   },
   {
     "name": "forms-advanced___es",
     "path": "/es/forms/advanced",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/forms/advanced.vue",
-    "chunkName": "pages/forms/advanced",
-    "_name": "_3606db9b"
+    "chunkName": "pages/forms/advanced"
   },
   {
     "name": "forms-elements___es",
     "path": "/es/forms/elements",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/forms/elements.vue",
-    "chunkName": "pages/forms/elements",
-    "_name": "_6fadc1f0"
+    "chunkName": "pages/forms/elements"
   },
   {
     "name": "forms-file-uploads___es",
     "path": "/es/forms/file-uploads",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/forms/file-uploads.vue",
-    "chunkName": "pages/forms/file-uploads",
-    "_name": "_7c9642ba"
+    "chunkName": "pages/forms/file-uploads"
   },
   {
     "name": "forms-mask___es",
     "path": "/es/forms/mask",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/forms/mask.vue",
-    "chunkName": "pages/forms/mask",
-    "_name": "_df6fc436"
+    "chunkName": "pages/forms/mask"
   },
   {
     "name": "forms-quill___es",
     "path": "/es/forms/quill",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/forms/quill.vue",
-    "chunkName": "pages/forms/quill",
-    "_name": "_49373e48"
+    "chunkName": "pages/forms/quill"
   },
   {
     "name": "forms-validation___es",
     "path": "/es/forms/validation",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/forms/validation.vue",
-    "chunkName": "pages/forms/validation",
-    "_name": "_8180779c"
+    "chunkName": "pages/forms/validation"
   },
   {
     "name": "forms-wizard___es",
     "path": "/es/forms/wizard",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/forms/wizard.vue",
-    "chunkName": "pages/forms/wizard",
-    "_name": "_04cff0a4"
+    "chunkName": "pages/forms/wizard"
   },
   {
     "name": "icons-boxicons___es",
     "path": "/es/icons/boxicons",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/icons/boxicons.vue",
-    "chunkName": "pages/icons/boxicons",
-    "_name": "_7d74701d"
+    "chunkName": "pages/icons/boxicons"
   },
   {
     "name": "icons-data-fontawesome___es",
     "path": "/es/icons/data-fontawesome",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/icons/data-fontawesome.js",
-    "chunkName": "pages/icons/data-fontawesome",
-    "_name": "_4b5a9730"
+    "chunkName": "pages/icons/data-fontawesome"
   },
   {
     "name": "icons-data-material___es",
     "path": "/es/icons/data-material",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/icons/data-material.js",
-    "chunkName": "pages/icons/data-material",
-    "_name": "_797817a3"
+    "chunkName": "pages/icons/data-material"
   },
   {
     "name": "icons-data-remix___es",
     "path": "/es/icons/data-remix",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/icons/data-remix.js",
-    "chunkName": "pages/icons/data-remix",
-    "_name": "_8aaf028a"
+    "chunkName": "pages/icons/data-remix"
   },
   {
     "name": "icons-feather___es",
     "path": "/es/icons/feather",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/icons/feather.vue",
-    "chunkName": "pages/icons/feather",
-    "_name": "_43a6ce25"
+    "chunkName": "pages/icons/feather"
   },
   {
     "name": "icons-font-awesome___es",
     "path": "/es/icons/font-awesome",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/icons/font-awesome.vue",
-    "chunkName": "pages/icons/font-awesome",
-    "_name": "_0d74c25a"
+    "chunkName": "pages/icons/font-awesome"
   },
   {
     "name": "icons-mdi___es",
     "path": "/es/icons/mdi",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/icons/mdi.vue",
-    "chunkName": "pages/icons/mdi",
-    "_name": "_08c5d0b4"
+    "chunkName": "pages/icons/mdi"
   },
   {
     "name": "icons-remix___es",
     "path": "/es/icons/remix",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/icons/remix.vue",
-    "chunkName": "pages/icons/remix",
-    "_name": "_740edc4b"
+    "chunkName": "pages/icons/remix"
   },
   {
     "name": "icons-weather___es",
     "path": "/es/icons/weather",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/icons/weather.vue",
-    "chunkName": "pages/icons/weather",
-    "_name": "_26d6acf6"
+    "chunkName": "pages/icons/weather"
   },
   {
     "name": "maps-google___es",
     "path": "/es/maps/google",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/maps/google.vue",
-    "chunkName": "pages/maps/google",
-    "_name": "_28b95268"
+    "chunkName": "pages/maps/google"
   },
   {
     "name": "tables-advanced___es",
     "path": "/es/tables/advanced",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/tables/advanced/index.vue",
-    "chunkName": "pages/tables/advanced/index",
-    "_name": "_21284986"
+    "chunkName": "pages/tables/advanced/index"
   },
   {
     "name": "tables-basic___es",
     "path": "/es/tables/basic",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/tables/basic.vue",
-    "chunkName": "pages/tables/basic",
-    "_name": "_46b54cdd"
+    "chunkName": "pages/tables/basic"
   },
   {
     "name": "task-detail___es",
     "path": "/es/task/detail",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/task/detail.vue",
-    "chunkName": "pages/task/detail",
-    "_name": "_497110d2"
+    "chunkName": "pages/task/detail"
   },
   {
     "name": "task-kanban___es",
     "path": "/es/task/kanban",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/task/kanban/index.vue",
-    "chunkName": "pages/task/kanban/index",
-    "_name": "_3fabbd8a"
+    "chunkName": "pages/task/kanban/index"
   },
   {
     "name": "task-list___es",
     "path": "/es/task/list",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/task/list.vue",
-    "chunkName": "pages/task/list",
-    "_name": "_54cf40df"
+    "chunkName": "pages/task/list"
   },
   {
     "name": "ui-avatars___es",
     "path": "/es/ui/avatars",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/ui/avatars.vue",
-    "chunkName": "pages/ui/avatars",
-    "_name": "_41c78550"
+    "chunkName": "pages/ui/avatars"
   },
   {
     "name": "ui-buttons___es",
     "path": "/es/ui/buttons",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/ui/buttons.vue",
-    "chunkName": "pages/ui/buttons",
-    "_name": "_5e8f971f"
+    "chunkName": "pages/ui/buttons"
   },
   {
     "name": "ui-cards___es",
     "path": "/es/ui/cards",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/ui/cards.vue",
-    "chunkName": "pages/ui/cards",
-    "_name": "_6054a781"
+    "chunkName": "pages/ui/cards"
   },
   {
     "name": "ui-carousel___es",
     "path": "/es/ui/carousel",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/ui/carousel.vue",
-    "chunkName": "pages/ui/carousel",
-    "_name": "_6e794732"
+    "chunkName": "pages/ui/carousel"
   },
   {
     "name": "ui-dropdowns___es",
     "path": "/es/ui/dropdowns",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/ui/dropdowns.vue",
-    "chunkName": "pages/ui/dropdowns",
-    "_name": "_4ecf6420"
+    "chunkName": "pages/ui/dropdowns"
   },
   {
     "name": "ui-general___es",
     "path": "/es/ui/general",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/ui/general.vue",
-    "chunkName": "pages/ui/general",
-    "_name": "_0a7655f4"
+    "chunkName": "pages/ui/general"
   },
   {
     "name": "ui-grid___es",
     "path": "/es/ui/grid",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/ui/grid.vue",
-    "chunkName": "pages/ui/grid",
-    "_name": "_5880bb18"
+    "chunkName": "pages/ui/grid"
   },
   {
     "name": "ui-images___es",
     "path": "/es/ui/images",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/ui/images.vue",
-    "chunkName": "pages/ui/images",
-    "_name": "_0896ba6c"
+    "chunkName": "pages/ui/images"
   },
   {
     "name": "ui-list-group___es",
     "path": "/es/ui/list-group",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/ui/list-group.vue",
-    "chunkName": "pages/ui/list-group",
-    "_name": "_7f6b983c"
+    "chunkName": "pages/ui/list-group"
   },
   {
     "name": "ui-modals___es",
     "path": "/es/ui/modals",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/ui/modals.vue",
-    "chunkName": "pages/ui/modals",
-    "_name": "_08d95690"
+    "chunkName": "pages/ui/modals"
   },
   {
     "name": "ui-notifications___es",
     "path": "/es/ui/notifications",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/ui/notifications.vue",
-    "chunkName": "pages/ui/notifications",
-    "_name": "_d51cb6f4"
+    "chunkName": "pages/ui/notifications"
   },
   {
     "name": "ui-portlets___es",
     "path": "/es/ui/portlets",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/ui/portlets.vue",
-    "chunkName": "pages/ui/portlets",
-    "_name": "_6ad0230b"
+    "chunkName": "pages/ui/portlets"
   },
   {
     "name": "ui-progress___es",
     "path": "/es/ui/progress",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/ui/progress.vue",
-    "chunkName": "pages/ui/progress",
-    "_name": "_32ba797f"
+    "chunkName": "pages/ui/progress"
   },
   {
     "name": "ui-ribbons___es",
     "path": "/es/ui/ribbons",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/ui/ribbons.vue",
-    "chunkName": "pages/ui/ribbons",
-    "_name": "_7ec47ffb"
+    "chunkName": "pages/ui/ribbons"
   },
   {
     "name": "ui-spinners___es",
     "path": "/es/ui/spinners",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/ui/spinners.vue",
-    "chunkName": "pages/ui/spinners",
-    "_name": "_5a1a4b68"
+    "chunkName": "pages/ui/spinners"
   },
   {
     "name": "ui-tabs-accordions___es",
     "path": "/es/ui/tabs-accordions",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/ui/tabs-accordions.vue",
-    "chunkName": "pages/ui/tabs-accordions",
-    "_name": "_1513bef8"
+    "chunkName": "pages/ui/tabs-accordions"
   },
   {
     "name": "ui-tooltips-popovers___es",
     "path": "/es/ui/tooltips-popovers",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/ui/tooltips-popovers.vue",
-    "chunkName": "pages/ui/tooltips-popovers",
-    "_name": "_4a2c25e9"
+    "chunkName": "pages/ui/tooltips-popovers"
   },
   {
     "name": "ui-typography___es",
     "path": "/es/ui/typography",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/ui/typography.vue",
-    "chunkName": "pages/ui/typography",
-    "_name": "_ae9a15fe"
+    "chunkName": "pages/ui/typography"
   },
   {
     "name": "ui-video___es",
     "path": "/es/ui/video",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/ui/video.vue",
-    "chunkName": "pages/ui/video",
-    "_name": "_8550eece"
+    "chunkName": "pages/ui/video"
   },
   {
     "name": "widgets-data___es",
     "path": "/es/widgets/data",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/widgets/data.js",
-    "chunkName": "pages/widgets/data",
-    "_name": "_b01ba368"
+    "chunkName": "pages/widgets/data"
   },
   {
     "name": "account-forgot-password___fr",
     "path": "/fr/account/forgot-password",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/account/forgot-password.vue",
-    "chunkName": "pages/account/forgot-password",
-    "_name": "_240e605a"
+    "chunkName": "pages/account/forgot-password"
   },
   {
     "name": "account-login___fr",
     "path": "/fr/account/login",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/account/login.vue",
-    "chunkName": "pages/account/login",
-    "_name": "_1c23f804"
+    "chunkName": "pages/account/login"
   },
   {
     "name": "account-register___fr",
     "path": "/fr/account/register",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/account/register.vue",
-    "chunkName": "pages/account/register",
-    "_name": "_5f73ac1e"
+    "chunkName": "pages/account/register"
   },
   {
     "name": "apps-calendar___fr",
     "path": "/fr/apps/calendar",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/apps/calendar/index.vue",
-    "chunkName": "pages/apps/calendar/index",
-    "_name": "_ad49a796"
+    "chunkName": "pages/apps/calendar/index"
   },
   {
     "name": "apps-chat___fr",
     "path": "/fr/apps/chat",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/apps/chat/index.vue",
-    "chunkName": "pages/apps/chat/index",
-    "_name": "_33360c62"
+    "chunkName": "pages/apps/chat/index"
   },
   {
     "name": "apps-companies___fr",
     "path": "/fr/apps/companies",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/apps/companies/index.vue",
-    "chunkName": "pages/apps/companies/index",
-    "_name": "_ba86c14c"
+    "chunkName": "pages/apps/companies/index"
   },
   {
     "name": "apps-file-manager___fr",
     "path": "/fr/apps/file-manager",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/apps/file-manager.vue",
-    "chunkName": "pages/apps/file-manager",
-    "_name": "_7c4db750"
+    "chunkName": "pages/apps/file-manager"
   },
   {
     "name": "apps-tickets___fr",
     "path": "/fr/apps/tickets",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/apps/tickets/index.vue",
-    "chunkName": "pages/apps/tickets/index",
-    "_name": "_f042e334"
+    "chunkName": "pages/apps/tickets/index"
   },
   {
     "name": "auth-confirm-mail___fr",
     "path": "/fr/auth/confirm-mail",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/auth/confirm-mail.vue",
-    "chunkName": "pages/auth/confirm-mail",
-    "_name": "_1b5c1f22"
+    "chunkName": "pages/auth/confirm-mail"
   },
   {
     "name": "auth-confirm-mail-2___fr",
     "path": "/fr/auth/confirm-mail-2",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/auth/confirm-mail-2.vue",
-    "chunkName": "pages/auth/confirm-mail-2",
-    "_name": "_a1846072"
+    "chunkName": "pages/auth/confirm-mail-2"
   },
   {
     "name": "auth-lock-screen___fr",
     "path": "/fr/auth/lock-screen",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/auth/lock-screen.vue",
-    "chunkName": "pages/auth/lock-screen",
-    "_name": "_06857040"
+    "chunkName": "pages/auth/lock-screen"
   },
   {
     "name": "auth-lock-screen-2___fr",
     "path": "/fr/auth/lock-screen-2",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/auth/lock-screen-2.vue",
-    "chunkName": "pages/auth/lock-screen-2",
-    "_name": "_75575165"
+    "chunkName": "pages/auth/lock-screen-2"
   },
   {
     "name": "auth-login___fr",
     "path": "/fr/auth/login",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/auth/login.vue",
-    "chunkName": "pages/auth/login",
-    "_name": "_51ff165b"
+    "chunkName": "pages/auth/login"
   },
   {
     "name": "auth-login-2___fr",
     "path": "/fr/auth/login-2",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/auth/login-2.vue",
-    "chunkName": "pages/auth/login-2",
-    "_name": "_6e004680"
+    "chunkName": "pages/auth/login-2"
   },
   {
     "name": "auth-logout___fr",
     "path": "/fr/auth/logout",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/auth/logout.vue",
-    "chunkName": "pages/auth/logout",
-    "_name": "_3af4bd88"
+    "chunkName": "pages/auth/logout"
   },
   {
     "name": "auth-logout-2___fr",
     "path": "/fr/auth/logout-2",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/auth/logout-2.vue",
-    "chunkName": "pages/auth/logout-2",
-    "_name": "_4b286cad"
+    "chunkName": "pages/auth/logout-2"
   },
   {
     "name": "auth-recoverpwd___fr",
     "path": "/fr/auth/recoverpwd",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/auth/recoverpwd.vue",
-    "chunkName": "pages/auth/recoverpwd",
-    "_name": "_e5873e52"
+    "chunkName": "pages/auth/recoverpwd"
   },
   {
     "name": "auth-recoverpwd-2___fr",
     "path": "/fr/auth/recoverpwd-2",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/auth/recoverpwd-2.vue",
-    "chunkName": "pages/auth/recoverpwd-2",
-    "_name": "_2a14783c"
+    "chunkName": "pages/auth/recoverpwd-2"
   },
   {
     "name": "auth-register___fr",
     "path": "/fr/auth/register",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/auth/register.vue",
-    "chunkName": "pages/auth/register",
-    "_name": "_7bc8bebe"
+    "chunkName": "pages/auth/register"
   },
   {
     "name": "auth-register-2___fr",
     "path": "/fr/auth/register-2",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/auth/register-2.vue",
-    "chunkName": "pages/auth/register-2",
-    "_name": "_b7ba24f4"
+    "chunkName": "pages/auth/register-2"
   },
   {
     "name": "auth-signin-signup___fr",
     "path": "/fr/auth/signin-signup",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/auth/signin-signup.vue",
-    "chunkName": "pages/auth/signin-signup",
-    "_name": "_58fbf195"
+    "chunkName": "pages/auth/signin-signup"
   },
   {
     "name": "auth-signin-signup-2___fr",
     "path": "/fr/auth/signin-signup-2",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/auth/signin-signup-2.vue",
-    "chunkName": "pages/auth/signin-signup-2",
-    "_name": "_0432d17a"
+    "chunkName": "pages/auth/signin-signup-2"
   },
   {
     "name": "charts-apex___fr",
     "path": "/fr/charts/apex",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/charts/apex/index.vue",
-    "chunkName": "pages/charts/apex/index",
-    "_name": "_098ab316"
+    "chunkName": "pages/charts/apex/index"
   },
   {
     "name": "charts-c3___fr",
     "path": "/fr/charts/c3",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/charts/c3/index.vue",
-    "chunkName": "pages/charts/c3/index",
-    "_name": "_3dca7ee4"
+    "chunkName": "pages/charts/c3/index"
   },
   {
     "name": "charts-chartist___fr",
     "path": "/fr/charts/chartist",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/charts/chartist/index.vue",
-    "chunkName": "pages/charts/chartist/index",
-    "_name": "_92db2640"
+    "chunkName": "pages/charts/chartist/index"
   },
   {
     "name": "charts-chartjs___fr",
     "path": "/fr/charts/chartjs",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/charts/chartjs/index.vue",
-    "chunkName": "pages/charts/chartjs/index",
-    "_name": "_39ef7809"
+    "chunkName": "pages/charts/chartjs/index"
   },
   {
     "name": "charts-knob___fr",
     "path": "/fr/charts/knob",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/charts/knob.vue",
-    "chunkName": "pages/charts/knob",
-    "_name": "_2d8d9227"
+    "chunkName": "pages/charts/knob"
   },
   {
     "name": "contacts-list___fr",
     "path": "/fr/contacts/list",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/contacts/list.vue",
-    "chunkName": "pages/contacts/list",
-    "_name": "_47bd9651"
+    "chunkName": "pages/contacts/list"
   },
   {
     "name": "contacts-profile___fr",
     "path": "/fr/contacts/profile",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/contacts/profile.vue",
-    "chunkName": "pages/contacts/profile",
-    "_name": "_dd78d874"
+    "chunkName": "pages/contacts/profile"
   },
   {
     "name": "dashboard-analytics___fr",
     "path": "/fr/dashboard/analytics",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/dashboard/analytics/index.vue",
-    "chunkName": "pages/dashboard/analytics/index",
-    "_name": "_59f6b485"
+    "chunkName": "pages/dashboard/analytics/index"
   },
   {
     "name": "dashboard-crm___fr",
     "path": "/fr/dashboard/crm",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/dashboard/crm/index.vue",
-    "chunkName": "pages/dashboard/crm/index",
-    "_name": "_0d8567dd"
+    "chunkName": "pages/dashboard/crm/index"
   },
   {
     "name": "dashboard-sales___fr",
     "path": "/fr/dashboard/sales",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/dashboard/sales/index.vue",
-    "chunkName": "pages/dashboard/sales/index",
-    "_name": "_e897f6ea"
+    "chunkName": "pages/dashboard/sales/index"
   },
   {
     "name": "ecommerce-cart___fr",
     "path": "/fr/ecommerce/cart",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/ecommerce/cart.vue",
-    "chunkName": "pages/ecommerce/cart",
-    "_name": "_010c6eb0"
+    "chunkName": "pages/ecommerce/cart"
   },
   {
     "name": "ecommerce-checkout___fr",
     "path": "/fr/ecommerce/checkout",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/ecommerce/checkout.vue",
-    "chunkName": "pages/ecommerce/checkout",
-    "_name": "_7053c064"
+    "chunkName": "pages/ecommerce/checkout"
   },
   {
     "name": "ecommerce-customers___fr",
     "path": "/fr/ecommerce/customers",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/ecommerce/customers/index.vue",
-    "chunkName": "pages/ecommerce/customers/index",
-    "_name": "_34815c40"
+    "chunkName": "pages/ecommerce/customers/index"
   },
   {
     "name": "ecommerce-data-products___fr",
     "path": "/fr/ecommerce/data-products",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/ecommerce/data-products.js",
-    "chunkName": "pages/ecommerce/data-products",
-    "_name": "_0526cb60"
+    "chunkName": "pages/ecommerce/data-products"
   },
   {
     "name": "ecommerce-order-detail___fr",
     "path": "/fr/ecommerce/order-detail",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/ecommerce/order-detail.vue",
-    "chunkName": "pages/ecommerce/order-detail",
-    "_name": "_b7714590"
+    "chunkName": "pages/ecommerce/order-detail"
   },
   {
     "name": "ecommerce-orders___fr",
     "path": "/fr/ecommerce/orders",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/ecommerce/orders/index.vue",
-    "chunkName": "pages/ecommerce/orders/index",
-    "_name": "_41eeeab0"
+    "chunkName": "pages/ecommerce/orders/index"
   },
   {
     "name": "ecommerce-product-create___fr",
     "path": "/fr/ecommerce/product-create",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/ecommerce/product-create.vue",
-    "chunkName": "pages/ecommerce/product-create",
-    "_name": "_4a558fbc"
+    "chunkName": "pages/ecommerce/product-create"
   },
   {
     "name": "ecommerce-products___fr",
     "path": "/fr/ecommerce/products",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/ecommerce/products/index.vue",
-    "chunkName": "pages/ecommerce/products/index",
-    "_name": "_2dc8eb22"
+    "chunkName": "pages/ecommerce/products/index"
   },
   {
     "name": "ecommerce-products-grid___fr",
     "path": "/fr/ecommerce/products-grid",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/ecommerce/products-grid.vue",
-    "chunkName": "pages/ecommerce/products-grid",
-    "_name": "_6f4d5037"
+    "chunkName": "pages/ecommerce/products-grid"
   },
   {
     "name": "ecommerce-sellers___fr",
     "path": "/fr/ecommerce/sellers",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/ecommerce/sellers.vue",
-    "chunkName": "pages/ecommerce/sellers",
-    "_name": "_8b4b0f08"
+    "chunkName": "pages/ecommerce/sellers"
   },
   {
     "name": "email-data-inbox___fr",
     "path": "/fr/email/data-inbox",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/email/data-inbox.js",
-    "chunkName": "pages/email/data-inbox",
-    "_name": "_0e4b2b60"
+    "chunkName": "pages/email/data-inbox"
   },
   {
     "name": "email-inbox___fr",
     "path": "/fr/email/inbox",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/email/inbox.vue",
-    "chunkName": "pages/email/inbox",
-    "_name": "_5f7a61ec"
+    "chunkName": "pages/email/inbox"
   },
   {
     "name": "email-sidepanel___fr",
     "path": "/fr/email/sidepanel",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/email/sidepanel.vue",
-    "chunkName": "pages/email/sidepanel",
-    "_name": "_5c13a611"
+    "chunkName": "pages/email/sidepanel"
   },
   {
     "name": "email-templates___fr",
     "path": "/fr/email/templates",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/email/templates.vue",
-    "chunkName": "pages/email/templates",
-    "_name": "_588eef86"
+    "chunkName": "pages/email/templates"
   },
   {
     "name": "email-toolbar___fr",
     "path": "/fr/email/toolbar",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/email/toolbar.vue",
-    "chunkName": "pages/email/toolbar",
-    "_name": "_3fa42a7f"
+    "chunkName": "pages/email/toolbar"
   },
   {
     "name": "extended-rangeslider___fr",
     "path": "/fr/extended/rangeslider",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/extended/rangeslider.vue",
-    "chunkName": "pages/extended/rangeslider",
-    "_name": "_03b2a33e"
+    "chunkName": "pages/extended/rangeslider"
   },
   {
     "name": "extended-scrollspy___fr",
     "path": "/fr/extended/scrollspy",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/extended/scrollspy.vue",
-    "chunkName": "pages/extended/scrollspy",
-    "_name": "_83f337dc"
+    "chunkName": "pages/extended/scrollspy"
   },
   {
     "name": "extended-sweet-alert___fr",
     "path": "/fr/extended/sweet-alert",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/extended/sweet-alert.vue",
-    "chunkName": "pages/extended/sweet-alert",
-    "_name": "_60489dc2"
+    "chunkName": "pages/extended/sweet-alert"
   },
   {
     "name": "extended-tour___fr",
     "path": "/fr/extended/tour",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/extended/tour.vue",
-    "chunkName": "pages/extended/tour",
-    "_name": "_50b8f8e5"
+    "chunkName": "pages/extended/tour"
   },
   {
     "name": "extras-404___fr",
     "path": "/fr/extras/404",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/extras/404.vue",
-    "chunkName": "pages/extras/404",
-    "_name": "_5386d8a5"
+    "chunkName": "pages/extras/404"
   },
   {
     "name": "extras-404-alt___fr",
     "path": "/fr/extras/404-alt",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/extras/404-alt.vue",
-    "chunkName": "pages/extras/404-alt",
-    "_name": "_403a6a81"
+    "chunkName": "pages/extras/404-alt"
   },
   {
     "name": "extras-500___fr",
     "path": "/fr/extras/500",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/extras/500.vue",
-    "chunkName": "pages/extras/500",
-    "_name": "_ef96943c"
+    "chunkName": "pages/extras/500"
   },
   {
     "name": "extras-coming-soon___fr",
     "path": "/fr/extras/coming-soon",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/extras/coming-soon.vue",
-    "chunkName": "pages/extras/coming-soon",
-    "_name": "_c6a6d098"
+    "chunkName": "pages/extras/coming-soon"
   },
   {
     "name": "extras-faqs___fr",
     "path": "/fr/extras/faqs",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/extras/faqs.vue",
-    "chunkName": "pages/extras/faqs",
-    "_name": "_19b8d400"
+    "chunkName": "pages/extras/faqs"
   },
   {
     "name": "extras-invoice___fr",
     "path": "/fr/extras/invoice",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/extras/invoice.vue",
-    "chunkName": "pages/extras/invoice",
-    "_name": "_53dc44cc"
+    "chunkName": "pages/extras/invoice"
   },
   {
     "name": "extras-lightbox___fr",
     "path": "/fr/extras/lightbox",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/extras/lightbox.vue",
-    "chunkName": "pages/extras/lightbox",
-    "_name": "_1363dd58"
+    "chunkName": "pages/extras/lightbox"
   },
   {
     "name": "extras-maintenance___fr",
     "path": "/fr/extras/maintenance",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/extras/maintenance.vue",
-    "chunkName": "pages/extras/maintenance",
-    "_name": "_58021000"
+    "chunkName": "pages/extras/maintenance"
   },
   {
     "name": "extras-pricing___fr",
     "path": "/fr/extras/pricing",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/extras/pricing.vue",
-    "chunkName": "pages/extras/pricing",
-    "_name": "_665245b3"
+    "chunkName": "pages/extras/pricing"
   },
   {
     "name": "extras-search-results___fr",
     "path": "/fr/extras/search-results",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/extras/search-results.vue",
-    "chunkName": "pages/extras/search-results",
-    "_name": "_1fbd1ef4"
+    "chunkName": "pages/extras/search-results"
   },
   {
     "name": "extras-sitemap___fr",
     "path": "/fr/extras/sitemap",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/extras/sitemap.vue",
-    "chunkName": "pages/extras/sitemap",
-    "_name": "_7b074322"
+    "chunkName": "pages/extras/sitemap"
   },
   {
     "name": "extras-starter___fr",
     "path": "/fr/extras/starter",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/extras/starter.vue",
-    "chunkName": "pages/extras/starter",
-    "_name": "_8e754c08"
+    "chunkName": "pages/extras/starter"
   },
   {
     "name": "extras-timeline___fr",
     "path": "/fr/extras/timeline",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/extras/timeline.vue",
-    "chunkName": "pages/extras/timeline",
-    "_name": "_7e5e02a4"
+    "chunkName": "pages/extras/timeline"
   },
   {
     "name": "forms-advanced___fr",
     "path": "/fr/forms/advanced",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/forms/advanced.vue",
-    "chunkName": "pages/forms/advanced",
-    "_name": "_3606db9b"
+    "chunkName": "pages/forms/advanced"
   },
   {
     "name": "forms-elements___fr",
     "path": "/fr/forms/elements",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/forms/elements.vue",
-    "chunkName": "pages/forms/elements",
-    "_name": "_6fadc1f0"
+    "chunkName": "pages/forms/elements"
   },
   {
     "name": "forms-file-uploads___fr",
     "path": "/fr/forms/file-uploads",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/forms/file-uploads.vue",
-    "chunkName": "pages/forms/file-uploads",
-    "_name": "_7c9642ba"
+    "chunkName": "pages/forms/file-uploads"
   },
   {
     "name": "forms-mask___fr",
     "path": "/fr/forms/mask",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/forms/mask.vue",
-    "chunkName": "pages/forms/mask",
-    "_name": "_df6fc436"
+    "chunkName": "pages/forms/mask"
   },
   {
     "name": "forms-quill___fr",
     "path": "/fr/forms/quill",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/forms/quill.vue",
-    "chunkName": "pages/forms/quill",
-    "_name": "_49373e48"
+    "chunkName": "pages/forms/quill"
   },
   {
     "name": "forms-validation___fr",
     "path": "/fr/forms/validation",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/forms/validation.vue",
-    "chunkName": "pages/forms/validation",
-    "_name": "_8180779c"
+    "chunkName": "pages/forms/validation"
   },
   {
     "name": "forms-wizard___fr",
     "path": "/fr/forms/wizard",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/forms/wizard.vue",
-    "chunkName": "pages/forms/wizard",
-    "_name": "_04cff0a4"
+    "chunkName": "pages/forms/wizard"
   },
   {
     "name": "icons-boxicons___fr",
     "path": "/fr/icons/boxicons",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/icons/boxicons.vue",
-    "chunkName": "pages/icons/boxicons",
-    "_name": "_7d74701d"
+    "chunkName": "pages/icons/boxicons"
   },
   {
     "name": "icons-data-fontawesome___fr",
     "path": "/fr/icons/data-fontawesome",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/icons/data-fontawesome.js",
-    "chunkName": "pages/icons/data-fontawesome",
-    "_name": "_4b5a9730"
+    "chunkName": "pages/icons/data-fontawesome"
   },
   {
     "name": "icons-data-material___fr",
     "path": "/fr/icons/data-material",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/icons/data-material.js",
-    "chunkName": "pages/icons/data-material",
-    "_name": "_797817a3"
+    "chunkName": "pages/icons/data-material"
   },
   {
     "name": "icons-data-remix___fr",
     "path": "/fr/icons/data-remix",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/icons/data-remix.js",
-    "chunkName": "pages/icons/data-remix",
-    "_name": "_8aaf028a"
+    "chunkName": "pages/icons/data-remix"
   },
   {
     "name": "icons-feather___fr",
     "path": "/fr/icons/feather",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/icons/feather.vue",
-    "chunkName": "pages/icons/feather",
-    "_name": "_43a6ce25"
+    "chunkName": "pages/icons/feather"
   },
   {
     "name": "icons-font-awesome___fr",
     "path": "/fr/icons/font-awesome",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/icons/font-awesome.vue",
-    "chunkName": "pages/icons/font-awesome",
-    "_name": "_0d74c25a"
+    "chunkName": "pages/icons/font-awesome"
   },
   {
     "name": "icons-mdi___fr",
     "path": "/fr/icons/mdi",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/icons/mdi.vue",
-    "chunkName": "pages/icons/mdi",
-    "_name": "_08c5d0b4"
+    "chunkName": "pages/icons/mdi"
   },
   {
     "name": "icons-remix___fr",
     "path": "/fr/icons/remix",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/icons/remix.vue",
-    "chunkName": "pages/icons/remix",
-    "_name": "_740edc4b"
+    "chunkName": "pages/icons/remix"
   },
   {
     "name": "icons-weather___fr",
     "path": "/fr/icons/weather",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/icons/weather.vue",
-    "chunkName": "pages/icons/weather",
-    "_name": "_26d6acf6"
+    "chunkName": "pages/icons/weather"
   },
   {
     "name": "maps-google___fr",
     "path": "/fr/maps/google",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/maps/google.vue",
-    "chunkName": "pages/maps/google",
-    "_name": "_28b95268"
+    "chunkName": "pages/maps/google"
   },
   {
     "name": "tables-advanced___fr",
     "path": "/fr/tables/advanced",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/tables/advanced/index.vue",
-    "chunkName": "pages/tables/advanced/index",
-    "_name": "_21284986"
+    "chunkName": "pages/tables/advanced/index"
   },
   {
     "name": "tables-basic___fr",
     "path": "/fr/tables/basic",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/tables/basic.vue",
-    "chunkName": "pages/tables/basic",
-    "_name": "_46b54cdd"
+    "chunkName": "pages/tables/basic"
   },
   {
     "name": "task-detail___fr",
     "path": "/fr/task/detail",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/task/detail.vue",
-    "chunkName": "pages/task/detail",
-    "_name": "_497110d2"
+    "chunkName": "pages/task/detail"
   },
   {
     "name": "task-kanban___fr",
     "path": "/fr/task/kanban",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/task/kanban/index.vue",
-    "chunkName": "pages/task/kanban/index",
-    "_name": "_3fabbd8a"
+    "chunkName": "pages/task/kanban/index"
   },
   {
     "name": "task-list___fr",
     "path": "/fr/task/list",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/task/list.vue",
-    "chunkName": "pages/task/list",
-    "_name": "_54cf40df"
+    "chunkName": "pages/task/list"
   },
   {
     "name": "ui-avatars___fr",
     "path": "/fr/ui/avatars",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/ui/avatars.vue",
-    "chunkName": "pages/ui/avatars",
-    "_name": "_41c78550"
+    "chunkName": "pages/ui/avatars"
   },
   {
     "name": "ui-buttons___fr",
     "path": "/fr/ui/buttons",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/ui/buttons.vue",
-    "chunkName": "pages/ui/buttons",
-    "_name": "_5e8f971f"
+    "chunkName": "pages/ui/buttons"
   },
   {
     "name": "ui-cards___fr",
     "path": "/fr/ui/cards",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/ui/cards.vue",
-    "chunkName": "pages/ui/cards",
-    "_name": "_6054a781"
+    "chunkName": "pages/ui/cards"
   },
   {
     "name": "ui-carousel___fr",
     "path": "/fr/ui/carousel",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/ui/carousel.vue",
-    "chunkName": "pages/ui/carousel",
-    "_name": "_6e794732"
+    "chunkName": "pages/ui/carousel"
   },
   {
     "name": "ui-dropdowns___fr",
     "path": "/fr/ui/dropdowns",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/ui/dropdowns.vue",
-    "chunkName": "pages/ui/dropdowns",
-    "_name": "_4ecf6420"
+    "chunkName": "pages/ui/dropdowns"
   },
   {
     "name": "ui-general___fr",
     "path": "/fr/ui/general",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/ui/general.vue",
-    "chunkName": "pages/ui/general",
-    "_name": "_0a7655f4"
+    "chunkName": "pages/ui/general"
   },
   {
     "name": "ui-grid___fr",
     "path": "/fr/ui/grid",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/ui/grid.vue",
-    "chunkName": "pages/ui/grid",
-    "_name": "_5880bb18"
+    "chunkName": "pages/ui/grid"
   },
   {
     "name": "ui-images___fr",
     "path": "/fr/ui/images",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/ui/images.vue",
-    "chunkName": "pages/ui/images",
-    "_name": "_0896ba6c"
+    "chunkName": "pages/ui/images"
   },
   {
     "name": "ui-list-group___fr",
     "path": "/fr/ui/list-group",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/ui/list-group.vue",
-    "chunkName": "pages/ui/list-group",
-    "_name": "_7f6b983c"
+    "chunkName": "pages/ui/list-group"
   },
   {
     "name": "ui-modals___fr",
     "path": "/fr/ui/modals",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/ui/modals.vue",
-    "chunkName": "pages/ui/modals",
-    "_name": "_08d95690"
+    "chunkName": "pages/ui/modals"
   },
   {
     "name": "ui-notifications___fr",
     "path": "/fr/ui/notifications",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/ui/notifications.vue",
-    "chunkName": "pages/ui/notifications",
-    "_name": "_d51cb6f4"
+    "chunkName": "pages/ui/notifications"
   },
   {
     "name": "ui-portlets___fr",
     "path": "/fr/ui/portlets",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/ui/portlets.vue",
-    "chunkName": "pages/ui/portlets",
-    "_name": "_6ad0230b"
+    "chunkName": "pages/ui/portlets"
   },
   {
     "name": "ui-progress___fr",
     "path": "/fr/ui/progress",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/ui/progress.vue",
-    "chunkName": "pages/ui/progress",
-    "_name": "_32ba797f"
+    "chunkName": "pages/ui/progress"
   },
   {
     "name": "ui-ribbons___fr",
     "path": "/fr/ui/ribbons",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/ui/ribbons.vue",
-    "chunkName": "pages/ui/ribbons",
-    "_name": "_7ec47ffb"
+    "chunkName": "pages/ui/ribbons"
   },
   {
     "name": "ui-spinners___fr",
     "path": "/fr/ui/spinners",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/ui/spinners.vue",
-    "chunkName": "pages/ui/spinners",
-    "_name": "_5a1a4b68"
+    "chunkName": "pages/ui/spinners"
   },
   {
     "name": "ui-tabs-accordions___fr",
     "path": "/fr/ui/tabs-accordions",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/ui/tabs-accordions.vue",
-    "chunkName": "pages/ui/tabs-accordions",
-    "_name": "_1513bef8"
+    "chunkName": "pages/ui/tabs-accordions"
   },
   {
     "name": "ui-tooltips-popovers___fr",
     "path": "/fr/ui/tooltips-popovers",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/ui/tooltips-popovers.vue",
-    "chunkName": "pages/ui/tooltips-popovers",
-    "_name": "_4a2c25e9"
+    "chunkName": "pages/ui/tooltips-popovers"
   },
   {
     "name": "ui-typography___fr",
     "path": "/fr/ui/typography",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/ui/typography.vue",
-    "chunkName": "pages/ui/typography",
-    "_name": "_ae9a15fe"
+    "chunkName": "pages/ui/typography"
   },
   {
     "name": "ui-video___fr",
     "path": "/fr/ui/video",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/ui/video.vue",
-    "chunkName": "pages/ui/video",
-    "_name": "_8550eece"
+    "chunkName": "pages/ui/video"
   },
   {
     "name": "widgets-data___fr",
     "path": "/fr/widgets/data",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/widgets/data.js",
-    "chunkName": "pages/widgets/data",
-    "_name": "_b01ba368"
+    "chunkName": "pages/widgets/data"
   },
   {
     "name": "tables-advanced-data___en",
     "path": "/tables/advanced/data",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/tables/advanced/data.js",
-    "chunkName": "pages/tables/advanced/data",
-    "_name": "_1af6f029"
+    "chunkName": "pages/tables/advanced/data"
   },
   {
     "name": "task-kanban-data___en",
     "path": "/task/kanban/data",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/task/kanban/data.js",
-    "chunkName": "pages/task/kanban/data",
-    "_name": "_0485311e"
+    "chunkName": "pages/task/kanban/data"
   },
   {
     "name": "apps-calendar-data-calendar___ar",
     "path": "/ar/apps/calendar/data-calendar",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/apps/calendar/data-calendar.js",
-    "chunkName": "pages/apps/calendar/data-calendar",
-    "_name": "_ef2d67aa"
+    "chunkName": "pages/apps/calendar/data-calendar"
   },
   {
     "name": "apps-chat-data___ar",
     "path": "/ar/apps/chat/data",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/apps/chat/data.js",
-    "chunkName": "pages/apps/chat/data",
-    "_name": "_a9f5c29c"
+    "chunkName": "pages/apps/chat/data"
   },
   {
     "name": "apps-companies-data___ar",
     "path": "/ar/apps/companies/data",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/apps/companies/data.js",
-    "chunkName": "pages/apps/companies/data",
-    "_name": "_638eaafd"
+    "chunkName": "pages/apps/companies/data"
   },
   {
     "name": "apps-tickets-data___ar",
     "path": "/ar/apps/tickets/data",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/apps/tickets/data.js",
-    "chunkName": "pages/apps/tickets/data",
-    "_name": "_4a38ed09"
+    "chunkName": "pages/apps/tickets/data"
   },
   {
     "name": "charts-apex-data___ar",
     "path": "/ar/charts/apex/data",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/charts/apex/data.js",
-    "chunkName": "pages/charts/apex/data",
-    "_name": "_49067db9"
+    "chunkName": "pages/charts/apex/data"
   },
   {
     "name": "charts-c3-data___ar",
     "path": "/ar/charts/c3/data",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/charts/c3/data.js",
-    "chunkName": "pages/charts/c3/data",
-    "_name": "_0a7a35f2"
+    "chunkName": "pages/charts/c3/data"
   },
   {
     "name": "charts-chartist-data___ar",
     "path": "/ar/charts/chartist/data",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/charts/chartist/data.js",
-    "chunkName": "pages/charts/chartist/data",
-    "_name": "_0f662203"
+    "chunkName": "pages/charts/chartist/data"
   },
   {
     "name": "charts-chartjs-BarChart___ar",
     "path": "/ar/charts/chartjs/BarChart",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/charts/chartjs/BarChart.vue",
-    "chunkName": "pages/charts/chartjs/BarChart",
-    "_name": "_1357ca78"
+    "chunkName": "pages/charts/chartjs/BarChart"
   },
   {
     "name": "charts-chartjs-DonutChart___ar",
     "path": "/ar/charts/chartjs/DonutChart",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/charts/chartjs/DonutChart.vue",
-    "chunkName": "pages/charts/chartjs/DonutChart",
-    "_name": "_01da4455"
+    "chunkName": "pages/charts/chartjs/DonutChart"
   },
   {
     "name": "charts-chartjs-LineChart___ar",
     "path": "/ar/charts/chartjs/LineChart",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/charts/chartjs/LineChart.vue",
-    "chunkName": "pages/charts/chartjs/LineChart",
-    "_name": "_67532be1"
+    "chunkName": "pages/charts/chartjs/LineChart"
   },
   {
     "name": "charts-chartjs-PieChart___ar",
     "path": "/ar/charts/chartjs/PieChart",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/charts/chartjs/PieChart.vue",
-    "chunkName": "pages/charts/chartjs/PieChart",
-    "_name": "_bd14052a"
+    "chunkName": "pages/charts/chartjs/PieChart"
   },
   {
     "name": "charts-chartjs-PolarChart___ar",
     "path": "/ar/charts/chartjs/PolarChart",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/charts/chartjs/PolarChart.vue",
-    "chunkName": "pages/charts/chartjs/PolarChart",
-    "_name": "_0328d88e"
+    "chunkName": "pages/charts/chartjs/PolarChart"
   },
   {
     "name": "charts-chartjs-RadarChart___ar",
     "path": "/ar/charts/chartjs/RadarChart",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/charts/chartjs/RadarChart.vue",
-    "chunkName": "pages/charts/chartjs/RadarChart",
-    "_name": "_796fa0f1"
+    "chunkName": "pages/charts/chartjs/RadarChart"
   },
   {
     "name": "dashboard-analytics-channels___ar",
     "path": "/ar/dashboard/analytics/channels",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/dashboard/analytics/channels.vue",
-    "chunkName": "pages/dashboard/analytics/channels",
-    "_name": "_17c5e26d"
+    "chunkName": "pages/dashboard/analytics/channels"
   },
   {
     "name": "dashboard-analytics-overview___ar",
     "path": "/ar/dashboard/analytics/overview",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/dashboard/analytics/overview.vue",
-    "chunkName": "pages/dashboard/analytics/overview",
-    "_name": "_7c88a0d4"
+    "chunkName": "pages/dashboard/analytics/overview"
   },
   {
     "name": "dashboard-analytics-social-media___ar",
     "path": "/ar/dashboard/analytics/social-media",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/dashboard/analytics/social-media.vue",
-    "chunkName": "pages/dashboard/analytics/social-media",
-    "_name": "_6871cfa1"
+    "chunkName": "pages/dashboard/analytics/social-media"
   },
   {
     "name": "dashboard-analytics-sources___ar",
     "path": "/ar/dashboard/analytics/sources",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/dashboard/analytics/sources.vue",
-    "chunkName": "pages/dashboard/analytics/sources",
-    "_name": "_bc07acaa"
+    "chunkName": "pages/dashboard/analytics/sources"
   },
   {
     "name": "dashboard-analytics-users___ar",
     "path": "/ar/dashboard/analytics/users",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/dashboard/analytics/users.vue",
-    "chunkName": "pages/dashboard/analytics/users",
-    "_name": "_c13ee28a"
+    "chunkName": "pages/dashboard/analytics/users"
   },
   {
     "name": "ecommerce-customers-data___ar",
     "path": "/ar/ecommerce/customers/data",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/ecommerce/customers/data.js",
-    "chunkName": "pages/ecommerce/customers/data",
-    "_name": "_69096963"
+    "chunkName": "pages/ecommerce/customers/data"
   },
   {
     "name": "ecommerce-orders-data___ar",
     "path": "/ar/ecommerce/orders/data",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/ecommerce/orders/data.js",
-    "chunkName": "pages/ecommerce/orders/data",
-    "_name": "_5730585a"
+    "chunkName": "pages/ecommerce/orders/data"
   },
   {
     "name": "ecommerce-products-data___ar",
     "path": "/ar/ecommerce/products/data",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/ecommerce/products/data.js",
-    "chunkName": "pages/ecommerce/products/data",
-    "_name": "_8531515c"
+    "chunkName": "pages/ecommerce/products/data"
   },
   {
     "name": "tables-advanced-data___ar",
     "path": "/ar/tables/advanced/data",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/tables/advanced/data.js",
-    "chunkName": "pages/tables/advanced/data",
-    "_name": "_1af6f029"
+    "chunkName": "pages/tables/advanced/data"
   },
   {
     "name": "task-kanban-data___ar",
     "path": "/ar/task/kanban/data",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/task/kanban/data.js",
-    "chunkName": "pages/task/kanban/data",
-    "_name": "_0485311e"
+    "chunkName": "pages/task/kanban/data"
   },
   {
     "name": "apps-calendar-data-calendar___es",
     "path": "/es/apps/calendar/data-calendar",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/apps/calendar/data-calendar.js",
-    "chunkName": "pages/apps/calendar/data-calendar",
-    "_name": "_ef2d67aa"
+    "chunkName": "pages/apps/calendar/data-calendar"
   },
   {
     "name": "apps-chat-data___es",
     "path": "/es/apps/chat/data",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/apps/chat/data.js",
-    "chunkName": "pages/apps/chat/data",
-    "_name": "_a9f5c29c"
+    "chunkName": "pages/apps/chat/data"
   },
   {
     "name": "apps-companies-data___es",
     "path": "/es/apps/companies/data",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/apps/companies/data.js",
-    "chunkName": "pages/apps/companies/data",
-    "_name": "_638eaafd"
+    "chunkName": "pages/apps/companies/data"
   },
   {
     "name": "apps-tickets-data___es",
     "path": "/es/apps/tickets/data",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/apps/tickets/data.js",
-    "chunkName": "pages/apps/tickets/data",
-    "_name": "_4a38ed09"
+    "chunkName": "pages/apps/tickets/data"
   },
   {
     "name": "charts-apex-data___es",
     "path": "/es/charts/apex/data",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/charts/apex/data.js",
-    "chunkName": "pages/charts/apex/data",
-    "_name": "_49067db9"
+    "chunkName": "pages/charts/apex/data"
   },
   {
     "name": "charts-c3-data___es",
     "path": "/es/charts/c3/data",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/charts/c3/data.js",
-    "chunkName": "pages/charts/c3/data",
-    "_name": "_0a7a35f2"
+    "chunkName": "pages/charts/c3/data"
   },
   {
     "name": "charts-chartist-data___es",
     "path": "/es/charts/chartist/data",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/charts/chartist/data.js",
-    "chunkName": "pages/charts/chartist/data",
-    "_name": "_0f662203"
+    "chunkName": "pages/charts/chartist/data"
   },
   {
     "name": "charts-chartjs-BarChart___es",
     "path": "/es/charts/chartjs/BarChart",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/charts/chartjs/BarChart.vue",
-    "chunkName": "pages/charts/chartjs/BarChart",
-    "_name": "_1357ca78"
+    "chunkName": "pages/charts/chartjs/BarChart"
   },
   {
     "name": "charts-chartjs-DonutChart___es",
     "path": "/es/charts/chartjs/DonutChart",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/charts/chartjs/DonutChart.vue",
-    "chunkName": "pages/charts/chartjs/DonutChart",
-    "_name": "_01da4455"
+    "chunkName": "pages/charts/chartjs/DonutChart"
   },
   {
     "name": "charts-chartjs-LineChart___es",
     "path": "/es/charts/chartjs/LineChart",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/charts/chartjs/LineChart.vue",
-    "chunkName": "pages/charts/chartjs/LineChart",
-    "_name": "_67532be1"
+    "chunkName": "pages/charts/chartjs/LineChart"
   },
   {
     "name": "charts-chartjs-PieChart___es",
     "path": "/es/charts/chartjs/PieChart",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/charts/chartjs/PieChart.vue",
-    "chunkName": "pages/charts/chartjs/PieChart",
-    "_name": "_bd14052a"
+    "chunkName": "pages/charts/chartjs/PieChart"
   },
   {
     "name": "charts-chartjs-PolarChart___es",
     "path": "/es/charts/chartjs/PolarChart",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/charts/chartjs/PolarChart.vue",
-    "chunkName": "pages/charts/chartjs/PolarChart",
-    "_name": "_0328d88e"
+    "chunkName": "pages/charts/chartjs/PolarChart"
   },
   {
     "name": "charts-chartjs-RadarChart___es",
     "path": "/es/charts/chartjs/RadarChart",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/charts/chartjs/RadarChart.vue",
-    "chunkName": "pages/charts/chartjs/RadarChart",
-    "_name": "_796fa0f1"
+    "chunkName": "pages/charts/chartjs/RadarChart"
   },
   {
     "name": "dashboard-analytics-channels___es",
     "path": "/es/dashboard/analytics/channels",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/dashboard/analytics/channels.vue",
-    "chunkName": "pages/dashboard/analytics/channels",
-    "_name": "_17c5e26d"
+    "chunkName": "pages/dashboard/analytics/channels"
   },
   {
     "name": "dashboard-analytics-overview___es",
     "path": "/es/dashboard/analytics/overview",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/dashboard/analytics/overview.vue",
-    "chunkName": "pages/dashboard/analytics/overview",
-    "_name": "_7c88a0d4"
+    "chunkName": "pages/dashboard/analytics/overview"
   },
   {
     "name": "dashboard-analytics-social-media___es",
     "path": "/es/dashboard/analytics/social-media",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/dashboard/analytics/social-media.vue",
-    "chunkName": "pages/dashboard/analytics/social-media",
-    "_name": "_6871cfa1"
+    "chunkName": "pages/dashboard/analytics/social-media"
   },
   {
     "name": "dashboard-analytics-sources___es",
     "path": "/es/dashboard/analytics/sources",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/dashboard/analytics/sources.vue",
-    "chunkName": "pages/dashboard/analytics/sources",
-    "_name": "_bc07acaa"
+    "chunkName": "pages/dashboard/analytics/sources"
   },
   {
     "name": "dashboard-analytics-users___es",
     "path": "/es/dashboard/analytics/users",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/dashboard/analytics/users.vue",
-    "chunkName": "pages/dashboard/analytics/users",
-    "_name": "_c13ee28a"
+    "chunkName": "pages/dashboard/analytics/users"
   },
   {
     "name": "ecommerce-customers-data___es",
     "path": "/es/ecommerce/customers/data",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/ecommerce/customers/data.js",
-    "chunkName": "pages/ecommerce/customers/data",
-    "_name": "_69096963"
+    "chunkName": "pages/ecommerce/customers/data"
   },
   {
     "name": "ecommerce-orders-data___es",
     "path": "/es/ecommerce/orders/data",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/ecommerce/orders/data.js",
-    "chunkName": "pages/ecommerce/orders/data",
-    "_name": "_5730585a"
+    "chunkName": "pages/ecommerce/orders/data"
   },
   {
     "name": "ecommerce-products-data___es",
     "path": "/es/ecommerce/products/data",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/ecommerce/products/data.js",
-    "chunkName": "pages/ecommerce/products/data",
-    "_name": "_8531515c"
+    "chunkName": "pages/ecommerce/products/data"
   },
   {
     "name": "tables-advanced-data___es",
     "path": "/es/tables/advanced/data",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/tables/advanced/data.js",
-    "chunkName": "pages/tables/advanced/data",
-    "_name": "_1af6f029"
+    "chunkName": "pages/tables/advanced/data"
   },
   {
     "name": "task-kanban-data___es",
     "path": "/es/task/kanban/data",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/task/kanban/data.js",
-    "chunkName": "pages/task/kanban/data",
-    "_name": "_0485311e"
+    "chunkName": "pages/task/kanban/data"
   },
   {
     "name": "apps-calendar-data-calendar___fr",
     "path": "/fr/apps/calendar/data-calendar",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/apps/calendar/data-calendar.js",
-    "chunkName": "pages/apps/calendar/data-calendar",
-    "_name": "_ef2d67aa"
+    "chunkName": "pages/apps/calendar/data-calendar"
   },
   {
     "name": "apps-chat-data___fr",
     "path": "/fr/apps/chat/data",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/apps/chat/data.js",
-    "chunkName": "pages/apps/chat/data",
-    "_name": "_a9f5c29c"
+    "chunkName": "pages/apps/chat/data"
   },
   {
     "name": "apps-companies-data___fr",
     "path": "/fr/apps/companies/data",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/apps/companies/data.js",
-    "chunkName": "pages/apps/companies/data",
-    "_name": "_638eaafd"
+    "chunkName": "pages/apps/companies/data"
   },
   {
     "name": "apps-tickets-data___fr",
     "path": "/fr/apps/tickets/data",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/apps/tickets/data.js",
-    "chunkName": "pages/apps/tickets/data",
-    "_name": "_4a38ed09"
+    "chunkName": "pages/apps/tickets/data"
   },
   {
     "name": "charts-apex-data___fr",
     "path": "/fr/charts/apex/data",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/charts/apex/data.js",
-    "chunkName": "pages/charts/apex/data",
-    "_name": "_49067db9"
+    "chunkName": "pages/charts/apex/data"
   },
   {
     "name": "charts-c3-data___fr",
     "path": "/fr/charts/c3/data",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/charts/c3/data.js",
-    "chunkName": "pages/charts/c3/data",
-    "_name": "_0a7a35f2"
+    "chunkName": "pages/charts/c3/data"
   },
   {
     "name": "charts-chartist-data___fr",
     "path": "/fr/charts/chartist/data",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/charts/chartist/data.js",
-    "chunkName": "pages/charts/chartist/data",
-    "_name": "_0f662203"
+    "chunkName": "pages/charts/chartist/data"
   },
   {
     "name": "charts-chartjs-BarChart___fr",
     "path": "/fr/charts/chartjs/BarChart",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/charts/chartjs/BarChart.vue",
-    "chunkName": "pages/charts/chartjs/BarChart",
-    "_name": "_1357ca78"
+    "chunkName": "pages/charts/chartjs/BarChart"
   },
   {
     "name": "charts-chartjs-DonutChart___fr",
     "path": "/fr/charts/chartjs/DonutChart",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/charts/chartjs/DonutChart.vue",
-    "chunkName": "pages/charts/chartjs/DonutChart",
-    "_name": "_01da4455"
+    "chunkName": "pages/charts/chartjs/DonutChart"
   },
   {
     "name": "charts-chartjs-LineChart___fr",
     "path": "/fr/charts/chartjs/LineChart",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/charts/chartjs/LineChart.vue",
-    "chunkName": "pages/charts/chartjs/LineChart",
-    "_name": "_67532be1"
+    "chunkName": "pages/charts/chartjs/LineChart"
   },
   {
     "name": "charts-chartjs-PieChart___fr",
     "path": "/fr/charts/chartjs/PieChart",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/charts/chartjs/PieChart.vue",
-    "chunkName": "pages/charts/chartjs/PieChart",
-    "_name": "_bd14052a"
+    "chunkName": "pages/charts/chartjs/PieChart"
   },
   {
     "name": "charts-chartjs-PolarChart___fr",
     "path": "/fr/charts/chartjs/PolarChart",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/charts/chartjs/PolarChart.vue",
-    "chunkName": "pages/charts/chartjs/PolarChart",
-    "_name": "_0328d88e"
+    "chunkName": "pages/charts/chartjs/PolarChart"
   },
   {
     "name": "charts-chartjs-RadarChart___fr",
     "path": "/fr/charts/chartjs/RadarChart",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/charts/chartjs/RadarChart.vue",
-    "chunkName": "pages/charts/chartjs/RadarChart",
-    "_name": "_796fa0f1"
+    "chunkName": "pages/charts/chartjs/RadarChart"
   },
   {
     "name": "dashboard-analytics-channels___fr",
     "path": "/fr/dashboard/analytics/channels",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/dashboard/analytics/channels.vue",
-    "chunkName": "pages/dashboard/analytics/channels",
-    "_name": "_17c5e26d"
+    "chunkName": "pages/dashboard/analytics/channels"
   },
   {
     "name": "dashboard-analytics-overview___fr",
     "path": "/fr/dashboard/analytics/overview",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/dashboard/analytics/overview.vue",
-    "chunkName": "pages/dashboard/analytics/overview",
-    "_name": "_7c88a0d4"
+    "chunkName": "pages/dashboard/analytics/overview"
   },
   {
     "name": "dashboard-analytics-social-media___fr",
     "path": "/fr/dashboard/analytics/social-media",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/dashboard/analytics/social-media.vue",
-    "chunkName": "pages/dashboard/analytics/social-media",
-    "_name": "_6871cfa1"
+    "chunkName": "pages/dashboard/analytics/social-media"
   },
   {
     "name": "dashboard-analytics-sources___fr",
     "path": "/fr/dashboard/analytics/sources",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/dashboard/analytics/sources.vue",
-    "chunkName": "pages/dashboard/analytics/sources",
-    "_name": "_bc07acaa"
+    "chunkName": "pages/dashboard/analytics/sources"
   },
   {
     "name": "dashboard-analytics-users___fr",
     "path": "/fr/dashboard/analytics/users",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/dashboard/analytics/users.vue",
-    "chunkName": "pages/dashboard/analytics/users",
-    "_name": "_c13ee28a"
+    "chunkName": "pages/dashboard/analytics/users"
   },
   {
     "name": "ecommerce-customers-data___fr",
     "path": "/fr/ecommerce/customers/data",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/ecommerce/customers/data.js",
-    "chunkName": "pages/ecommerce/customers/data",
-    "_name": "_69096963"
+    "chunkName": "pages/ecommerce/customers/data"
   },
   {
     "name": "ecommerce-orders-data___fr",
     "path": "/fr/ecommerce/orders/data",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/ecommerce/orders/data.js",
-    "chunkName": "pages/ecommerce/orders/data",
-    "_name": "_5730585a"
+    "chunkName": "pages/ecommerce/orders/data"
   },
   {
     "name": "ecommerce-products-data___fr",
     "path": "/fr/ecommerce/products/data",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/ecommerce/products/data.js",
-    "chunkName": "pages/ecommerce/products/data",
-    "_name": "_8531515c"
+    "chunkName": "pages/ecommerce/products/data"
   },
   {
     "name": "tables-advanced-data___fr",
     "path": "/fr/tables/advanced/data",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/tables/advanced/data.js",
-    "chunkName": "pages/tables/advanced/data",
-    "_name": "_1af6f029"
+    "chunkName": "pages/tables/advanced/data"
   },
   {
     "name": "task-kanban-data___fr",
     "path": "/fr/task/kanban/data",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/task/kanban/data.js",
-    "chunkName": "pages/task/kanban/data",
-    "_name": "_0485311e"
+    "chunkName": "pages/task/kanban/data"
   },
   {
     "name": "ecommerce-product-detail-id___ar",
     "path": "/ar/ecommerce/product-detail/:id?",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/ecommerce/product-detail/_id.vue",
-    "chunkName": "pages/ecommerce/product-detail/_id",
-    "_name": "_4d2211bc"
+    "chunkName": "pages/ecommerce/product-detail/_id"
   },
   {
     "name": "email-reademail-id___ar",
     "path": "/ar/email/reademail/:id?",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/email/reademail/_id.vue",
-    "chunkName": "pages/email/reademail/_id",
-    "_name": "_695a4ef5"
+    "chunkName": "pages/email/reademail/_id"
   },
   {
     "name": "ecommerce-product-detail-id___es",
     "path": "/es/ecommerce/product-detail/:id?",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/ecommerce/product-detail/_id.vue",
-    "chunkName": "pages/ecommerce/product-detail/_id",
-    "_name": "_4d2211bc"
+    "chunkName": "pages/ecommerce/product-detail/_id"
   },
   {
     "name": "email-reademail-id___es",
     "path": "/es/email/reademail/:id?",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/email/reademail/_id.vue",
-    "chunkName": "pages/email/reademail/_id",
-    "_name": "_695a4ef5"
+    "chunkName": "pages/email/reademail/_id"
   },
   {
     "name": "ecommerce-product-detail-id___fr",
     "path": "/fr/ecommerce/product-detail/:id?",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/ecommerce/product-detail/_id.vue",
-    "chunkName": "pages/ecommerce/product-detail/_id",
-    "_name": "_4d2211bc"
+    "chunkName": "pages/ecommerce/product-detail/_id"
   },
   {
     "name": "email-reademail-id___fr",
     "path": "/fr/email/reademail/:id?",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/email/reademail/_id.vue",
-    "chunkName": "pages/email/reademail/_id",
-    "_name": "_695a4ef5"
+    "chunkName": "pages/email/reademail/_id"
   },
   {
     "name": "ecommerce-product-detail-id___en",
     "path": "/ecommerce/product-detail/:id?",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/ecommerce/product-detail/_id.vue",
-    "chunkName": "pages/ecommerce/product-detail/_id",
-    "_name": "_4d2211bc"
+    "chunkName": "pages/ecommerce/product-detail/_id"
   },
   {
     "name": "email-reademail-id___en",
     "path": "/email/reademail/:id?",
     "component": "/Users/temirlanprimtayev/Documents/hospital-front/pages/email/reademail/_id.vue",
-    "chunkName": "pages/email/reademail/_id",
-    "_name": "_695a4ef5"
+    "chunkName": "pages/email/reademail/_id"
   },
   {
     "path": "/",
-    "component": "~/pages/hospital/index.vue",
-    "_name": "_0f1ecc32"
+    "component": "~/pages/hospital/index.vue"
   }
 ]
