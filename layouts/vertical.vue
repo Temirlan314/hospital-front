@@ -68,6 +68,6 @@ export default {
         </div>
         <Footer />
     </div>
-    <Rightbar />
+    <!-- <Rightbar /> -->
 </div>
 </template>

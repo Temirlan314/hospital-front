@@ -4,7 +4,7 @@ export default {
     extendRoutes(routes) {
       routes.push({
         path: "/",
-        component: "~/pages/dashboard/sales/index.vue"
+        component: "~/pages/hospital/index.vue"
       });
     }
   },
@@ -73,7 +73,9 @@ export default {
   modules: [
     // Doc: https://bootstrap-vue.js.org
     'bootstrap-vue/nuxt',
-    'nuxt-i18n'
+    'nuxt-i18n',
+'@nuxtjs/axios'
+
   ],
   i18n: {
     locales: ['en', 'fr', 'es', 'ar'],
