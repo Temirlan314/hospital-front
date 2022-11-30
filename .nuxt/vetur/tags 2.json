@@ -1,0 +1,158 @@
+{
+  "Footer": {
+    "description": "Auto imported from components/Footer.vue"
+  },
+  "LazyFooter": {
+    "description": "Auto imported from components/Footer.vue"
+  },
+  "HorizontalNavbar": {
+    "description": "Auto imported from components/Horizontal-navbar.vue"
+  },
+  "LazyHorizontalNavbar": {
+    "description": "Auto imported from components/Horizontal-navbar.vue"
+  },
+  "Loading": {
+    "description": "Auto imported from components/Loading.vue"
+  },
+  "LazyLoading": {
+    "description": "Auto imported from components/Loading.vue"
+  },
+  "Logo": {
+    "description": "Auto imported from components/Logo.vue"
+  },
+  "LazyLogo": {
+    "description": "Auto imported from components/Logo.vue"
+  },
+  "PageHeader": {
+    "description": "Auto imported from components/Page-header.vue"
+  },
+  "LazyPageHeader": {
+    "description": "Auto imported from components/Page-header.vue"
+  },
+  "Portlet": {
+    "description": "Auto imported from components/Portlet.vue"
+  },
+  "LazyPortlet": {
+    "description": "Auto imported from components/Portlet.vue"
+  },
+  "Rightbar": {
+    "description": "Auto imported from components/Rightbar.vue"
+  },
+  "LazyRightbar": {
+    "description": "Auto imported from components/Rightbar.vue"
+  },
+  "Sidebar": {
+    "description": "Auto imported from components/Sidebar.vue"
+  },
+  "LazySidebar": {
+    "description": "Auto imported from components/Sidebar.vue"
+  },
+  "Topbar": {
+    "description": "Auto imported from components/Topbar.vue"
+  },
+  "LazyTopbar": {
+    "description": "Auto imported from components/Topbar.vue"
+  },
+  "TwoColumnSidebar": {
+    "description": "Auto imported from components/Two-column-sidebar.vue"
+  },
+  "LazyTwoColumnSidebar": {
+    "description": "Auto imported from components/Two-column-sidebar.vue"
+  },
+  "HorizontalMenu": {
+    "description": "Auto imported from components/horizontal-menu.js"
+  },
+  "LazyHorizontalMenu": {
+    "description": "Auto imported from components/horizontal-menu.js"
+  },
+  "Menu": {
+    "description": "Auto imported from components/menu.js"
+  },
+  "LazyMenu": {
+    "description": "Auto imported from components/menu.js"
+  },
+  "Campaigns": {
+    "description": "Auto imported from components/widgets/Campaigns.vue"
+  },
+  "LazyCampaigns": {
+    "description": "Auto imported from components/widgets/Campaigns.vue"
+  },
+  "Chat": {
+    "description": "Auto imported from components/widgets/Chat.vue"
+  },
+  "LazyChat": {
+    "description": "Auto imported from components/widgets/Chat.vue"
+  },
+  "CrmWidget": {
+    "description": "Auto imported from components/widgets/Crm-widget.vue"
+  },
+  "LazyCrmWidget": {
+    "description": "Auto imported from components/widgets/Crm-widget.vue"
+  },
+  "Inbox": {
+    "description": "Auto imported from components/widgets/Inbox.vue"
+  },
+  "LazyInbox": {
+    "description": "Auto imported from components/widgets/Inbox.vue"
+  },
+  "MarketingReports": {
+    "description": "Auto imported from components/widgets/Marketing-reports.vue"
+  },
+  "LazyMarketingReports": {
+    "description": "Auto imported from components/widgets/Marketing-reports.vue"
+  },
+  "ProductsSales": {
+    "description": "Auto imported from components/widgets/Products-sales.vue"
+  },
+  "LazyProductsSales": {
+    "description": "Auto imported from components/widgets/Products-sales.vue"
+  },
+  "Projections": {
+    "description": "Auto imported from components/widgets/Projections.vue"
+  },
+  "LazyProjections": {
+    "description": "Auto imported from components/widgets/Projections.vue"
+  },
+  "RecentLeads": {
+    "description": "Auto imported from components/widgets/Recent-leads.vue"
+  },
+  "LazyRecentLeads": {
+    "description": "Auto imported from components/widgets/Recent-leads.vue"
+  },
+  "RevenueHistory": {
+    "description": "Auto imported from components/widgets/Revenue-history.vue"
+  },
+  "LazyRevenueHistory": {
+    "description": "Auto imported from components/widgets/Revenue-history.vue"
+  },
+  "RevenueReport": {
+    "description": "Auto imported from components/widgets/Revenue-report.vue"
+  },
+  "LazyRevenueReport": {
+    "description": "Auto imported from components/widgets/Revenue-report.vue"
+  },
+  "Revenue": {
+    "description": "Auto imported from components/widgets/Revenue.vue"
+  },
+  "LazyRevenue": {
+    "description": "Auto imported from components/widgets/Revenue.vue"
+  },
+  "Todo": {
+    "description": "Auto imported from components/widgets/Todo.vue"
+  },
+  "LazyTodo": {
+    "description": "Auto imported from components/widgets/Todo.vue"
+  },
+  "TopPerforming": {
+    "description": "Auto imported from components/widgets/Top-performing.vue"
+  },
+  "LazyTopPerforming": {
+    "description": "Auto imported from components/widgets/Top-performing.vue"
+  },
+  "WidgetChart": {
+    "description": "Auto imported from components/widgets/Widget-chart.vue"
+  },
+  "LazyWidgetChart": {
+    "description": "Auto imported from components/widgets/Widget-chart.vue"
+  }
+}

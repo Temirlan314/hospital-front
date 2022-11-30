@@ -125,7 +125,7 @@ export default {
   <div class="navbar-custom">
     <div class="container-fluid">
       <ul class="list-unstyled topnav-menu float-right mb-0">
-        <li class="d-none d-lg-block">
+        <!-- <li class="d-none d-lg-block">
           <form class="app-search">
             <div class="app-search-box">
               <div class="input-group">
@@ -143,7 +143,7 @@ export default {
               </div>
             </div>
           </form>
-        </li>
+        </li> -->
 
         <li class="dropdown d-inline-block d-lg-none">
           <a

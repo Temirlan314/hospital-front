@@ -18,6 +18,7 @@ import nuxt_plugin_pluginrouting_362a4d1e from 'nuxt_plugin_pluginrouting_362a4d
 import nuxt_plugin_pluginmain_0b84ef9e from 'nuxt_plugin_pluginmain_0b84ef9e' // Source: ./nuxt-i18n/plugin.main.js (mode: 'all')
 import nuxt_plugin_bootstrapvue_0987cb38 from 'nuxt_plugin_bootstrapvue_0987cb38' // Source: ./bootstrap-vue.js (mode: 'all')
 import nuxt_plugin_axios_1a494135 from 'nuxt_plugin_axios_1a494135' // Source: ./axios.js (mode: 'all')
+import nuxt_plugin_moment_3d8a7703 from 'nuxt_plugin_moment_3d8a7703' // Source: ./moment.js (mode: 'all')
 import nuxt_plugin_fireauth_22211b23 from 'nuxt_plugin_fireauth_22211b23' // Source: ../plugins/fireauth.js (mode: 'all')
 import nuxt_plugin_fakeauth_71f68924 from 'nuxt_plugin_fakeauth_71f68924' // Source: ../plugins/fakeauth.js (mode: 'all')
 import nuxt_plugin_simplebar_28d69fac from 'nuxt_plugin_simplebar_28d69fac' // Source: ../plugins/simplebar.js (mode: 'all')
@@ -228,6 +229,10 @@ async function createApp(ssrContext, config = {}) {
 
   if (typeof nuxt_plugin_axios_1a494135 === 'function') {
     await nuxt_plugin_axios_1a494135(app.context, inject)
+  }
+
+  if (typeof nuxt_plugin_moment_3d8a7703 === 'function') {
+    await nuxt_plugin_moment_3d8a7703(app.context, inject)
   }
 
   if (typeof nuxt_plugin_fireauth_22211b23 === 'function') {
